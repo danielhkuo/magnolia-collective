@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/movies/movie-musings/"}
+{"dg-publish":true,"permalink":"/movies/movie-musings/","tags":["movies"]}
 ---
 
