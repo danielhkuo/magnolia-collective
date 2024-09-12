@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
@@ -7,13 +7,14 @@
 ## About
 Magnolia Collective is a blog exploring many aspects of general knowledge and fun trivia I have encountered. I hope to share that with you all here! Thanks for visiting. 
 ## Recent Posts
-| File                                                       | Last modified      |
+
+| File                                                       | Authored           |
 | ---------------------------------------------------------- | ------------------ |
-| [[Esports Review/Esports Review\|Esports Review]]       | 11.09.2024 - 20:59 |
-| [[Internet Archive/Internet Archive\|Internet Archive]] | 11.09.2024 - 18:55 |
-| [[Miscellaneous/Miscellaneous\|Miscellaneous]]          | 11.09.2024 - 18:49 |
-| [[Movie Musings/Movie Musings\|Movie Musings]]          | 11.09.2024 - 18:43 |
-| [[Theology Corner/Theology Corner\|Theology Corner]]    | 11.09.2024 - 18:33 |
+| [[Miscellaneous/Miscellaneous\|Miscellaneous]]          | September 11, 2024 |
+| [[Theology Corner/Theology Corner\|Theology Corner]]    | September 11, 2024 |
+| [[Book Nook/Book Nook\|Book Nook]]                      | September 11, 2024 |
+| [[Internet Archive/Internet Archive\|Internet Archive]] | September 11, 2024 |
+| [[Esports Review/Esports Review\|Esports Review]]       | September 11, 2024 |
 
 { .block-language-dataview}
 ## Sub-Pages
