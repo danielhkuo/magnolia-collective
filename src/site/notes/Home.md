@@ -10,11 +10,11 @@ Magnolia Collective is a blog exploring many aspects of general knowledge and fu
 
 | File                                                       | Authored           |
 | ---------------------------------------------------------- | ------------------ |
-| [[Miscellaneous/Miscellaneous\|Miscellaneous]]          | September 11, 2024 |
-| [[Theology Corner/Theology Corner\|Theology Corner]]    | September 11, 2024 |
 | [[Book Nook/Book Nook\|Book Nook]]                      | September 11, 2024 |
-| [[Internet Archive/Internet Archive\|Internet Archive]] | September 11, 2024 |
 | [[Esports Review/Esports Review\|Esports Review]]       | September 11, 2024 |
+| [[Internet Archive/Internet Archive\|Internet Archive]] | September 11, 2024 |
+| [[Miscellaneous/Miscellaneous\|Miscellaneous]]          | September 11, 2024 |
+| [[Movie Musings/Movie Musings\|Movie Musings]]          | September 11, 2024 |
 
 { .block-language-dataview}
 ## Sub-Pages
@@ -29,7 +29,6 @@ Magnolia Collective is a blog exploring many aspects of general knowledge and fu
 ---
 
 <div style="display: flex; justify-content: center;">
-<iframe src="https://lastfmstats.com/user/Arukasu/charts" style="border: none;" width="50%" height="480"></iframe>`
   <iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRla25sNDhkNW00MXNyeTgzY3Z1NnlqdmszZjVsYTc4amRrdWtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ayBZf3xVtT74Q/giphy.gif" 
           width="343" height="480" frameBorder="0" allowFullScreen></iframe>
 </div>
