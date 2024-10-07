@@ -3,18 +3,18 @@
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
-# Welcome to Magnolia Collective
+# Welcome to Mnestic Magnolia
 ## About
-Magnolia Collective is a blog exploring many aspects of general knowledge and fun trivia I have encountered. I hope to share that with you all here! Thanks for visiting. 
+Mnestic Magnolia is a blog exploring many aspects of general knowledge and fun trivia I have encountered. I hope to share that with you all here! Thanks for visiting. 
 ## Recent Posts
 
-| File                                                       | Authored           |
-| ---------------------------------------------------------- | ------------------ |
-| [[Book Nook/Book Nook\|Book Nook]]                      | September 11, 2024 |
-| [[Esports Review/Esports Review\|Esports Review]]       | September 11, 2024 |
-| [[Internet Archive/Internet Archive\|Internet Archive]] | September 11, 2024 |
-| [[Miscellaneous/Miscellaneous\|Miscellaneous]]          | September 11, 2024 |
-| [[Movie Musings/Movie Musings\|Movie Musings]]          | September 11, 2024 |
+| File                                                        | Authored           |
+| ----------------------------------------------------------- | ------------------ |
+| [[Miscellaneous/Mavrovo, Macedonia\|Mavrovo, Macedonia]] | September 16, 2024 |
+| [[Book Nook/Book Nook\|Book Nook]]                       | September 11, 2024 |
+| [[Esports Review/Esports Review\|Esports Review]]        | September 11, 2024 |
+| [[Internet Archive/Internet Archive\|Internet Archive]]  | September 11, 2024 |
+| [[Miscellaneous/Miscellaneous\|Miscellaneous]]           | September 11, 2024 |
 
 { .block-language-dataview}
 ## Sub-Pages
