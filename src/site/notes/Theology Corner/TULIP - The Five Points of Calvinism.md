@@ -23,7 +23,7 @@ The Five Points of Calvinism states:
 
 The five points of Calvinism are not independent of other doctrines of Reformed Theology; rather, they are an outworking of *Sola Gratia*, one of the five Solas of the Reformation. Salvation by grace alone. The five points of Calvinism are often considered Reformed Theology as a whole, but in actuality, they are just the part of the whole that discusses salvation. There are Calvinistic Baptists, Presbyterians, Methodists, or Pentecostals without any of them being reformed (like John Piper or Matt Chandler, for example). It is also interesting to note that the five points of Calvinism, we called TULIP or the 5 points in general, were not considered 5 points until 1619, almost a hundred years after Calvin.
 
-What occurred at this time that there was a debate over Calvin’s teachings in the Dutch Reformed churches over salvation between Calvin’s teaching and a group called the *Remonstrants* or, more commonly referred to as Arminians, after Jacobus Arminius, who was a student of Theodore Beza who was a student of Calvin himself. The Arminians published **The Five Articles of Remonstrance**, which were subject to review by the Dutch National Synod held in Dordrecht in 1618-1619. This hearing is commonly referred to as the **Synod of Dort**. 
+What occurred at this time that there was a debate over Calvin’s teachings in the Dutch Reformed churches over salvation between Calvin’s teaching and a group called the [Remonstrants](https://en.wikipedia.org/wiki/Remonstrants) or, more commonly referred to as Arminians, after [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius), who was a student of [Theodore Beza](https://en.wikipedia.org/wiki/Theodore_Beza) who was a student of Calvin himself. The Arminians published **The Five Articles of Remonstrance**, which were subject to review by the Dutch National Synod held in Dordrecht in 1618-1619. This hearing is commonly referred to as the **[Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)**.
 
   
 The Five Articles of the Remonstrance stated that:  
@@ -37,9 +37,8 @@ The Five Articles of the Remonstrance stated that:
 
 **Article 5: Conditional Perseverance of the Saints** - Perseverance is conditional on the believer remaining in Christ. 
 
-  
-
-(Note that Total Depravity was accepted by both Calvinists and Arminians/Remonstrants. A Denial of Total Depravity would be heretical - See [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism) and [Semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism))  
+  > [!note]
+> (Note that Total Depravity was accepted by both Calvinists and Arminians/Remonstrants. A Denial of Total Depravity would be heretical - See [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism) and [Semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism))  
   
 The Synod met 154 times over six months and officially ruled that Arminius’ teachings were heretical; 200 Arminian pastors were removed from office, and others who refused to be silent on the matter were banished from the country. At the opening of the Synod, one of the Remonstrants wanted to begin by placing his objections to Calvinism as his opening statement, but the Synod reminded him that they were the ones on trial for departing from the Reformed faith, and so they were to justify their own position from scripture first. (Ie. They were the defendants and not the prosecutors) The Arminians refused to obey the procedure and withdrew from the Synod, where the proceedings continued with the board reviewing the doctrines of the Remonstrants without them. The judgment issued on these 5 points was called the Canons of Dort, and they became known as the Five Points of Calvinism. Turned into an acronym in the early 1900’s, the Five Points became commonly referred to as TULIP.  
   

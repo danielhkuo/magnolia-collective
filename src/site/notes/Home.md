@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
 # Welcome to Mnestic Magnolia
 ## About
-Mnestic Magnolia is a blog exploring many aspects of general knowledge and fun trivia I have encountered. I hope to share that with you all here! Thanks for visiting. 
+Hello! I'm so happy to have this chance to share some of the things I've learned with you all here. Thanks so much for stopping by!
 ## Recent Posts
 
 | File                                                                                              | Authored           |
