@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movie-musings/movie-musings/","tags":["movies"]}
+{"dg-publish":true,"permalink":"/Movie Musings/Movie Musings/","tags":["movies"]}
 ---
 
 ![](https://i.imgur.com/7Xxziyl.png)
