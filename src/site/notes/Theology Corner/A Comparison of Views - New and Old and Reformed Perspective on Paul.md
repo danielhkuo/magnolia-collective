@@ -53,19 +53,19 @@
 
 ## 7. Understanding of "charis" (grace)
 
-| Perspective | Interpretation |
-|-------------|----------------|
-| Old Perspective on Paul (OPP) | - Unmerited favor<br>- God's kindness to us that we don't deserve |
-| New Perspective on Paul (NPP) | - Doing a favor<br>- Implies an expectation of returning the favor |
+| Perspective                           | Interpretation                                                                                                                                              |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Old Perspective on Paul (OPP)         | - Unmerited favor<br>- God's kindness to us that we don't deserve                                                                                           |
+| New Perspective on Paul (NPP)         | - Doing a favor<br>- Implies an expectation of returning the favor                                                                                          |
 | Historical Reformed Perspective (HRP) | - Agrees with John Barclay<br>- Unmerited favor that implicitly establishes a relationship<br>- Accepting grace means entering into a relationship with God |
 
 ## 8. Translation of "pistis Christou"
 
-| Perspective | Interpretation |
-|-------------|----------------|
-| Old Perspective on Paul (OPP) | - "Faith in Christ"<br>- Emphasizes our faith in Jesus |
-| New Perspective on Paul (NPP) | - "Faithfulness of Christ"<br>- Emphasizes Jesus' faithfulness to us |
-| Historical Reformed Perspective (HRP) | - Agrees with OPP<br>- "Faith in Christ" |
+| Perspective | Translation | Explanation |
+|-------------|-------------|-------------|
+| Old Perspective on Paul (OPP) | "Faith in Christ" | - Emphasizes the believer's faith as the instrument of salvation<br>- Views 'Christou' as an objective genitive (Christ as object of faith)<br>- Aligns with traditional Protestant emphasis on sola fide<br>- Sees this as consistent with Paul's emphasis on believing in Christ |
+| New Perspective on Paul (NPP) | "Faithfulness of Christ" | - Emphasizes Christ's own faithfulness to God's covenant<br>- Views 'Christou' as a subjective genitive (Christ as subject of faithfulness)<br>- Focuses on Christ's obedience and loyalty to God's plan<br>- Connects to NPP's emphasis on covenant and Jesus as faithful Israelite |
+| Historical Reformed Perspective (HRP) | "Faith in Christ" | - Agrees with OPP's translation<br>- Maintains emphasis on individual's faith in Christ<br>- May acknowledge some merit in NPP's view but sees it as less central<br>- Seeks to balance Christ's faithfulness and our faith in Him |
 
 ## 9. Single or Double Imputation
 
@@ -77,10 +77,10 @@
 
 ## 10. Best synonym for "pistis" (faith)
 
-| Perspective | Interpretation |
-|-------------|----------------|
-| Old Perspective on Paul (OPP) | - Trust |
-| New Perspective on Paul (NPP) | - Allegiance (implying a kingly, royal, whole-body commitment) |
+| Perspective                           | Interpretation                                                  |
+| ------------------------------------- | --------------------------------------------------------------- |
+| Old Perspective on Paul (OPP)         | - Trust                                                         |
+| New Perspective on Paul (NPP)         | - Allegiance (implying a kingly, royal, whole-body commitment)  |
 | Historical Reformed Perspective (HRP) | - Agrees more with NPP<br>- Leans towards allegiance over trust |
 
 ## 11. Primary source for the gospel message
@@ -101,10 +101,10 @@
 
 ## 13. Sufficiency of Scripture vs. Historical Background
 
-| Perspective | Interpretation |
-|-------------|----------------|
-| Old Perspective on Paul (OPP) | - Leans towards sufficiency of Scripture<br>- Believes all passages can be understood with proper study and the Holy Spirit's guidance |
-| New Perspective on Paul (NPP) | - Emphasizes need for historical background<br>- Accepts that some passages may be lost to history and cannot be fully understood |
+| Perspective                           | Interpretation                                                                                                                                                                                                                                                       |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Old Perspective on Paul (OPP)         | - Leans towards sufficiency of Scripture<br>- Believes all passages can be understood with proper study and the Holy Spirit's guidance                                                                                                                               |
+| New Perspective on Paul (NPP)         | - Emphasizes need for historical background<br>- Accepts that some passages may be lost to history and cannot be fully understood                                                                                                                                    |
 | Historical Reformed Perspective (HRP) | - Leans towards NPP but with caveats<br>- Accepts some passages may be unclear due to lost historical context<br>- Argues that all theologically important passages can be understood<br>- Notes that historical work sometimes confirms traditional interpretations |
 
 ---
