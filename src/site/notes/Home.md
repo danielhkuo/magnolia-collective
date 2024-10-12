@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
@@ -8,13 +8,13 @@
 Hello! I'm so happy to have this chance to share some of the things I've learned with you all here. Thanks so much for stopping by!
 ## Recent Posts
 
-| File                                                                                              | Authored           |
-| ------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Theology Corner/TULIP - The Five Points of Calvinism\|TULIP - The Five Points of Calvinism]] | October 10, 2024   |
-| [[Miscellaneous/Mavrovo, Macedonia\|Mavrovo, Macedonia]]                                       | September 16, 2024 |
-| [[Book Nook/Book Nook\|Book Nook]]                                                             | September 11, 2024 |
-| [[Esports Review/Esports Review\|Esports Review]]                                              | September 11, 2024 |
-| [[Internet Archive/Internet Archive\|Internet Archive]]                                        | September 11, 2024 |
+| File                                                                                                                                                              | Authored           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Theology Corner/A Comparison of Views - New and Old and Reformed Perspective on Paul\|A Comparison of Views - New and Old and Reformed Perspective on Paul]] | October 12, 2024   |
+| [[Theology Corner/TULIP - The Five Points of Calvinism\|TULIP - The Five Points of Calvinism]]                                                                 | October 10, 2024   |
+| [[Miscellaneous/Mavrovo, Macedonia\|Mavrovo, Macedonia]]                                                                                                       | September 16, 2024 |
+| [[Book Nook/Book Nook\|Book Nook]]                                                                                                                             | September 11, 2024 |
+| [[Esports Review/Esports Review\|Esports Review]]                                                                                                              | September 11, 2024 |
 
 { .block-language-dataview}
 ## Sub-Pages
