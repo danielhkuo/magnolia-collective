@@ -12,13 +12,13 @@
 
 The Five Points of Calvinism states:  
 	
-[[Theology Corner/TULIP - The Five Points of Calvinism#Total Depravity The Human Condition\|Total Depravity (Total Inability)]] - Human nature is so fallen it cannot save itself and is by its fallen nature opposed to God  
+[[Theology Corner/TULIP - The Five Points of Calvinism#Total Depravity The Human Condition\|Total Depravity (Total Inability)]] - Human nature is so fallen it cannot save itself and is by its fallen nature opposed to God
 
-[[Theology Corner/TULIP - The Five Points of Calvinism#Unconditional Election Loved Before Time\|Unconditional Election]] - God has chosen from eternity those he will bring to himself, not based on merit, virtue, or foreseen faith but rather, by mercy alone  
+[[Theology Corner/TULIP - The Five Points of Calvinism#Unconditional Election Loved Before Time\|Unconditional Election]] - God has chosen from eternity those he will bring to himself, not based on merit, virtue, or foreseen faith but rather, by mercy alone
 
 [[Theology Corner/TULIP - The Five Points of Calvinism#Limited Atonement Mission Accomplished\|Limited Atonement (Particular Redemption)]] - Christ died only for the elect, his death was certain and definite in its scope of what he wanted to accomplish
 
-[[Theology Corner/TULIP - The Five Points of Calvinism#Effectual Calling Called\|Irresistible Grace (Effectual Calling)]] - The call onto salvation is effectually applied to those who are elect  and will save the ones God intends to save 
+[[Theology Corner/TULIP - The Five Points of Calvinism#Effectual Calling Called\|Irresistible Grace (Effectual Calling)]] - The call onto salvation is effectually applied to those who are elect  and will save the ones God intends to save
 
 [[Theology Corner/TULIP - The Five Points of Calvinism#Perseverance of the Saints Kept\|Perseverance of the Saints]] -  It is impossible to fall away from the grace of God or to frustrate the will of God
 
@@ -32,6 +32,7 @@ The Five Articles of the Remonstrance stated that:
 **Article 3: Total Depravity** - Agrees with Calvin that man cannot save himself  
 
 **Article 1: Conditional Election** - Election is conditional upon faith in Christ, and God elects salvation upon those He knows beforehand will have faith in him  
+
 **Article 2: Unlimited Atonement** - Christ died for all men 
 
 **Article 4: Resistible Grace** - Mankind has the free will to resist God’s grace
@@ -39,7 +40,9 @@ The Five Articles of the Remonstrance stated that:
 **Article 5: Conditional Perseverance of the Saints** - Perseverance is conditional on the believer remaining in Christ. 
 
   > [!note]
-> Note that Total Depravity was accepted by both Calvinists and Arminians/Remonstrants. A Denial of Total Depravity would be heretical - See [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism) and [Semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism)
+> Note that Total Depravity was accepted by both Calvinists and Arminians/Remonstrants. A Denial of Total Depravity would be heretical - See [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism) and [Semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism).
+> 
+> Additionally, view this video by Dr. Jordan B. Cooper on why this is historically accurate: https://www.youtube.com/watch?v=qwgxbiUS9xY
   
 The Synod met 154 times over six months and officially ruled that Arminius’ teachings were heretical; 200 Arminian pastors were removed from office, and others who refused to be silent on the matter were banished from the country. At the opening of the Synod, one of the Remonstrants wanted to begin by placing his objections to Calvinism as his opening statement, but the Synod reminded him that they were the ones on trial for departing from the Reformed faith, and so they were to justify their own position from scripture first. (Ie. They were the defendants and not the prosecutors) The Arminians refused to obey the procedure and withdrew from the Synod, where the proceedings continued with the board reviewing the doctrines of the Remonstrants without them. The judgment issued on these 5 points was called the Canons of Dort, and they became known as the Five Points of Calvinism. Turned into an acronym in the early 1900’s, the Five Points became commonly referred to as TULIP.  
   
