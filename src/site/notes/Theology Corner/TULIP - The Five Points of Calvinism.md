@@ -42,7 +42,7 @@ The Five Articles of the Remonstrance stated that:
   > [!note]
 > Note that Total Depravity was accepted by both Calvinists and Arminians/Remonstrants. A Denial of Total Depravity would be heretical - See [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism) and [Semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism).
 > 
-> Additionally, view this video by Dr. Jordan B. Cooper on why this is historically accurate: https://www.youtube.com/watch?v=qwgxbiUS9xY
+> Additionally, view this video by Dr. Jordan B. Cooper on why Leighton Flowers's "Provisionism" also falls under these categories: https://www.youtube.com/watch?v=qwgxbiUS9xY
   
 The Synod met 154 times over six months and officially ruled that Arminius’ teachings were heretical; 200 Arminian pastors were removed from office, and others who refused to be silent on the matter were banished from the country. At the opening of the Synod, one of the Remonstrants wanted to begin by placing his objections to Calvinism as his opening statement, but the Synod reminded him that they were the ones on trial for departing from the Reformed faith, and so they were to justify their own position from scripture first. (Ie. They were the defendants and not the prosecutors) The Arminians refused to obey the procedure and withdrew from the Synod, where the proceedings continued with the board reviewing the doctrines of the Remonstrants without them. The judgment issued on these 5 points was called the Canons of Dort, and they became known as the Five Points of Calvinism. Turned into an acronym in the early 1900’s, the Five Points became commonly referred to as TULIP.  
   
