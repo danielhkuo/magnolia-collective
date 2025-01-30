@@ -7,7 +7,7 @@ One of the great theological tensions in Christianity is how to reconcile **God�
 
 In this analysis, we will evaluate the [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#The Lutheran View\|Lutheran]], [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#The Calvinist/Reformed View\|Calvinist]], [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#The Wesleyan-Arminian View\|Arminian]], and [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#Molinism Maximum Philosophical Precision, Maximum Speculation\|Molinist]] approaches to this issue—highlighting both their strengths and weaknesses.
 
-Additionally I will be addressing a heresy: [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#Semi-Pelagianism The Intuitive But Heretical Middle Ground\|#Semi-Pelagianism The Intuitive But Heretical Middle Ground]]
+Additionally I will be addressing a heresy: [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#Semi-Pelagianism\|#Semi-Pelagianism]]
 
 And finally, giving my personal [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience#Why I Am a Calvinist Biblical Fidelity and Theological Consistency\|conclusion]].
 
@@ -565,7 +565,8 @@ Let’s take a look at **Semi-Pelagianism**, why it’s attractive, and ultimate
 
 ---
 
-## Semi-Pelagianism: The Intuitive But Heretical Middle Ground
+## Semi-Pelagianism
+**The Intuitive But Heretical Middle Ground**
 
 ### What Semi-Pelagianism Teaches
 
