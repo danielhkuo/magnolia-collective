@@ -53,4 +53,5 @@ Let's continue to engage with these perspectives thoughtfully, allowing them to 
 
 Blessings to you all.
 
+---
 ***"This article wasn't written by me, but by someone who prefers to remain anonymous. They care more about the conversation than the credit."***
