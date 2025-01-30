@@ -6,6 +6,7 @@
 | File                                                                                                                                                              | Authored           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Theology Corner/The Perils of Theological Innovation Without Church History\|The Perils of Theological Innovation Without Church History]]                   | January 30, 2025   |
+| [[Theology Corner/NPP - Fresh Insights Without Compromising Our Faith\|NPP - Fresh Insights Without Compromising Our Faith]]                                   | January 30, 2025   |
 | [[Theology Corner/Free Will and Salvation - An Attempt for Easier Dialogue\|Free Will and Salvation - An Attempt for Easier Dialogue]]                         | October 23, 2024   |
 | [[Theology Corner/A Comparison of Views - New and Old and Reformed Perspective on Paul\|A Comparison of Views - New and Old and Reformed Perspective on Paul]] | October 12, 2024   |
 | [[Theology Corner/TULIP - The Five Points of Calvinism\|TULIP - The Five Points of Calvinism]]                                                                 | October 10, 2024   |
