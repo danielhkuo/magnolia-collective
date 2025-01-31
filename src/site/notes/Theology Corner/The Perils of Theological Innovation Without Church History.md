@@ -27,26 +27,32 @@ To see how foreign these ideas are to historic Christianity, let’s look at wha
 
 ## 1. The Early Church Did Not Expect a Pre-Tribulational Rapture
 
-- **Irenaeus (c. 180 AD)**: In _Against Heresies_ (Book 5, Ch. 29), Irenaeus describes believers suffering under the Antichrist **before** Christ returns, which contradicts the idea of an early rapture. He states:
+- **Hippolytus (c. 200 AD)**: In _On Christ and Antichrist_ (Chapters 60-61), Hippolytus describes the Church facing persecution under the Antichrist, only to be vindicated when Christ returns. He writes:
     
-    > "And they \[the Church] shall be given into his hands during a time, and times, and half a time" (referring to Daniel 7:25).
+    > "Now concerning the tribulation of the persecution which is to fall upon the Church from the adversary... That refers to the one thousand two hundred and threescore days (the half of the week) during which the tyrant is to reign and persecute the Church."
     
-- **Hippolytus (c. 200 AD)**: In _On Christ and Antichrist_ (Ch. 60-61), he describes **the Church facing persecution under the Antichrist**, only to be vindicated when Christ returns.
+    This indicates that Hippolytus expected the Church to undergo persecution during the Antichrist's reign.
     
 
 ## 2. The Early Church Saw the Church as the True Israel, Not a Separate Entity
 
-- **Justin Martyr (c. 155 AD)**: In _Dialogue with Trypho_ (Ch. 11), Justin explicitly states that the **Church is the continuation of Israel**:
+- **Justin Martyr (c. 155 AD)**: In _Dialogue with Trypho_ (Chapter 11), Justin explicitly states that the Church is the continuation of Israel:
     
-    > "We \[Christians] are the true spiritual Israel."
+    > "For the true spiritual Israel, and descendants of Judah, Jacob, Isaac, and Abraham... are we who have been led to God through this crucified Christ."
     
-- **Augustine (c. 400 AD)**: In _The City of God_ (Book 20, Ch. 14), Augustine argues that Israel's prophetic fulfillment is found in Christ and His Church, not in a future restoration of a national Israel.
+    This reflects the belief that Christians are the spiritual successors of Israel.
     
+- **Augustine (c. 400 AD)**: In _The City of God_ (Book 20, Chapter 14), Augustine discusses the fulfillment of Israel's prophecies in the Church:
+    
+    > "Therefore the Israel which pertains to this mystery is not that Israel which is after the flesh, but that which is after the spirit."
+    
+    He emphasizes the spiritual interpretation of Israel as the Church.
 
 ## 3. The Early Church Rejected Prosperity Theology
 
-- **Clement of Alexandria (c. 195 AD)**: In _Who Is the Rich Man That Shall Be Saved?_ (Ch. 16), Clement warns against trusting in wealth and clarifies that **Christian life is one of suffering, not material prosperity**.
-- **Tertullian (c. 200 AD)**: In _On Patience_, Tertullian argues that suffering, rather than wealth, is the mark of a true Christian.
+- **Clement of Alexandria (c. 195 AD)**: In _Who Is the Rich Man That Shall Be Saved?_ (Chapter 16), Clement warns against trusting in wealth and clarifies that Christian life is one of suffering, not material prosperity.
+    
+- **Tertullian (c. 200 AD)**: In _On Patience_ (Chapter 5), Tertullian argues that suffering, rather than wealth, is the mark of a true Christian.
 
 # But What About New Discoveries?
 
