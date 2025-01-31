@@ -75,3 +75,6 @@ So how do we hold these truths in tension?
 # Conclusion: A Call to Humility
 
 We should approach theology with humility—**neither dismissing church history nor ignoring the ways biblical studies enhance our understanding**. Many new theologies arise **because they seem biblically obvious from a modern perspective**, but Scripture must be read in light of the **faith passed down through the generations**. Dispensationalism serves as a cautionary tale of what happens when **personal interpretation overtakes historic doctrine**. At the same time, continued study of Scripture, in light of **both history and new discoveries**, should lead us **not away from the faith of the early church, but deeper into it**.
+
+---
+It's important to note that not all early church fathers addressed every theological topic. Consequently, our understanding of early Christian perspectives is primarily derived from the writings of those who did discuss specific subjects. While this provides valuable insights, it may not represent the full spectrum of beliefs held during that period. Therefore, when examining early church testimonies against certain theologies, we rely on the available writings, recognizing that they offer a partial view of the broader early Christian thought.
