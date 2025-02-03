@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
@@ -10,11 +10,11 @@ Hello! I'm so happy to have this chance to share some of the things I've learned
 
 | File                                                                                                                                                                                                                      | Authored          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Miscellaneous/Young Earth Creationism–A Controversial Perspective\|Young Earth Creationism–A Controversial Perspective]]                                                                                             | February 03, 2025 |
 | [[Theology Corner/The Ephesians 1 Debate\|The Ephesians 1 Debate]]                                                                                                                                                     | February 03, 2025 |
 | [[Theology Corner/NPP - Fresh Insights Without Compromising Our Faith\|NPP - Fresh Insights Without Compromising Our Faith]]                                                                                           | January 30, 2025  |
 | [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience\|An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience]] | January 30, 2025  |
 | [[Theology Corner/The Perils of Theological Innovation Without Church History\|The Perils of Theological Innovation Without Church History]]                                                                           | January 30, 2025  |
-| [[Theology Corner/Free Will and Salvation - An Attempt for Easier Dialogue\|Free Will and Salvation - An Attempt for Easier Dialogue]]                                                                                 | October 23, 2024  |
 
 { .block-language-dataview}
 ## Sub-Pages
