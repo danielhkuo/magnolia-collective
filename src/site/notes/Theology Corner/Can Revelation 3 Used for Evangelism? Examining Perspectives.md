@@ -55,6 +55,37 @@ Revelation 3:20 is part of Christ’s rebuke to the **church at Laodicea** (Reve
 
 While Revelation 3:20’s imagery is compelling, its primary application is to **complacent believers**, not unbelievers. Evangelism should prioritize texts explicitly addressing salvation (e.g., Romans 10:9–10) while respecting the original context of all Scripture.  
 
+> [!CRITIQUE]- **A Common Counterargument: "Old Testament Logic"**  
+> A pastor recently argued: *"If Revelation 3:20 is restricted to its original audience (Laodicea), then the Old Testament—written for ancient Israel—cannot apply to the modern church."*  
+>   
+> **Why This Argument Fails Under Scrutiny**  
+> 1. **Scripture Interprets Scripture**  
+>    - The New Testament explicitly validates the Old Testament’s relevance for Christians (2 Timothy 3:16–17; Romans 15:4). For example:  
+>      - Paul applies Deuteronomy 25:4 to church ministry (1 Timothy 5:18).  
+>      - Hebrews reinterprets the Mosaic covenant through Christ (Hebrews 8–10).  
+>    - By contrast, Revelation 3:20 lacks apostolic precedent for evangelistic use.  
+>   
+> 2. **Covenantal Framework**  
+>    - The Old Testament is part of a *redemptive-historical narrative* fulfilled in Christ (Matthew 5:17). Its laws and types find ultimate meaning in Him.  
+>    - Revelation 3:20, however, is a *specific exhortation* to a church, not a soteriological formula. Equating the two ignores:  
+>      - The NT’s intentional reapplication of OT themes.  
+>      - The distinction between *descriptive* narratives (Israel’s history) and *prescriptive* imperatives (letters to churches).  
+>   
+> 3. **Principle vs. Prescription**  
+>    - The Old Testament’s moral law reflects God’s eternal character and remains binding (e.g., Ten Commandments).  
+>    - Revelation 3:20’s *principle* (Christ’s desire for communion) is universal, but its *evangelistic application* assumes a foreign context (unbelievers).  
+>   
+> 4. **Hermeneutical Nuance**  
+>    - The counterargument conflates *audience specificity* with *theological relevance*. While the OT’s covenantal promises are progressively fulfilled in Christ, Revelation 3:20 is a localized call to a covenant community (the church).  
+>   
+> **Conclusion**  
+> Responsible hermeneutics distinguishes between a text’s *original meaning* and its *theological application*. The OT applies to the church *because the NT authorizes it*. Revelation 3:20, however, is misapplied when divorced from its ecclesial context. Rejecting this distinction risks either Marcionite rejection of the OT or uncritical proof-texting of the NT.  
+>   
+> **Sources**  
+> - Frame, John. *The Doctrine of the Christian Life*. 2008.  
+> - Beale, G.K. *The Book of Revelation*. 1999.  
+> - Goldsworthy, Graeme. *Gospel-Centered Hermeneutics*. 2006.
+
 ---
 
 ### Sources  
