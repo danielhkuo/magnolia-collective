@@ -5,7 +5,7 @@
 ![](https://i.imgur.com/U84DBYd.png)
 | File                                                                                                                                                                                                                      | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Theology Corner/Can Revelation 3 Used for Evangelism? Examining Perspectives\|Can Revelation 3 Used for Evangelism? Examining Perspectives]]                                                                         | February 04, 2025  |
+| [[Theology Corner/Revelation 3 Use for Evangelism\|Revelation 3 Use for Evangelism]]                                                                                                                                   | February 04, 2025  |
 | [[Theology Corner/The Ephesians 1 Debate\|The Ephesians 1 Debate]]                                                                                                                                                     | February 03, 2025  |
 | [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience\|An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience]] | January 30, 2025   |
 | [[Theology Corner/NPP - Fresh Insights Without Compromising Our Faith\|NPP - Fresh Insights Without Compromising Our Faith]]                                                                                           | January 30, 2025   |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
@@ -10,7 +10,7 @@ Hello! I'm so happy to have this chance to share some of the things I've learned
 
 | File                                                                                                                                                                                                                      | Authored          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Theology Corner/Can Revelation 3 Used for Evangelism? Examining Perspectives\|Can Revelation 3 Used for Evangelism? Examining Perspectives]]                                                                         | February 04, 2025 |
+| [[Theology Corner/Revelation 3 Use for Evangelism\|Revelation 3 Use for Evangelism]]                                                                                                                                   | February 04, 2025 |
 | [[Miscellaneous/Young Earth Creationism–A Controversial Perspective\|Young Earth Creationism–A Controversial Perspective]]                                                                                             | February 03, 2025 |
 | [[Theology Corner/The Ephesians 1 Debate\|The Ephesians 1 Debate]]                                                                                                                                                     | February 03, 2025 |
 | [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience\|An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience]] | January 30, 2025  |
