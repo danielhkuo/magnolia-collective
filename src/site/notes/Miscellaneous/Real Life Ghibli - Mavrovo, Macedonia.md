@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Miscellaneous/Real Life Ghibli - Mavrovo, Macedonia/"}
 ---
 
+# Real Life Ghibli - Mavrovo, Macedonia
 *Where Alpine meadows, sunken churches, and whispering pines defy time*
 
 ---

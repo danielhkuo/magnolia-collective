@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Theology Corner/TULIP - The Five Points of Calvinism/"}
 ---
 
-
+# TULIP - The Five Points of Calvinism
 *Special thanks to Lin Chen for compiling this and sharing it to all for educational uses.*
 
 > [!quote]

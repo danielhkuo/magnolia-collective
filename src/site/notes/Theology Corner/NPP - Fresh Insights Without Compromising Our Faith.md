@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Theology Corner/NPP - Fresh Insights Without Compromising Our Faith/"}
 ---
 
+# NPP - Fresh Insights Without Compromising Our Faith
 I've been thinking about a topic that came up in a discussion some time ago: the New Perspective on Paul (NPP). Whether you're an avid Bible enthusiast or are simply interested in different viewpoints, I'd like to share some thoughts on this debate and why it doesn't shake the foundation of our faith.
 
 ### Who Was Paul, Anyway?

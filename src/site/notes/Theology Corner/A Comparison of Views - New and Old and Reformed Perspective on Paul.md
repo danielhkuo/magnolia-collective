@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Theology Corner/A Comparison of Views - New and Old and Reformed Perspective on Paul/"}
 ---
 
+# A Comparison of Views - New and Old and Reformed Perspective on Paul
 *Adapted from Caleb Smith's videos on the New and Old Perspective of Paul*
 ## 1. Meaning of "Gospel"
 

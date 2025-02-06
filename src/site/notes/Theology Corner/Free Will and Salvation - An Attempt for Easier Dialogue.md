@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Theology Corner/Free Will and Salvation - An Attempt for Easier Dialogue/"}
 ---
 
-
+# Free Will and Salvation - An Attempt for Easier Dialogue
 In discussions about free will and salvation, it has become increasingly common for specific (ignorant) individuals to claim, "___ side doesn't understand us! They simply cannot comprehend our position because they lack knowledge!" This often creates a rhetorical impasse, leaving genuine dialogue unachieved. To foster productive conversation, I find it necessary to clarify the various positions on this spectrum, as it will show that all individuals fall somewhere within this range rather than existing beyond it or outside of understanding.
 
 The positions concerning free will and salvation form a gradient of beliefs. While this categorization may seem oversimplified, it is a helpful framework to reveal that one's stance exists on a continuum. This allows for meaningful comparison and conversation.

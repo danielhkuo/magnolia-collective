@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Theology Corner/The Perils of Theological Innovation Without Church History/"}
 ---
 
+# The Perils of Theological Innovation Without Church History
 *(And Why Context Still Matters)*
 
 # The Temptation of Theological Isolation

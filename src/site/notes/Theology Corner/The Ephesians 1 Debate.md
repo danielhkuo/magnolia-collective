@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Theology Corner/The Ephesians 1 Debate/"}
 ---
 
-# Contents
+# The Ephesians 1 Debate
+## Contents
 1. [[Theology Corner/The Ephesians 1 Debate#A Strongman and Defense of View A\|#A Strongman and Defense of View A]]
 2. [[Theology Corner/The Ephesians 1 Debate#A Complete Rebuttal by View B\|#A Complete Rebuttal by View B]]
 
