@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Internet Archive/Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire/"}
 ---
 
-# Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire  
+# Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire
+![|635x357](https://i.imgur.com/JprYKiG.jpeg)
 _Inside the backlash to "Thick of It" and the cultural machinery that turns cringe into currency_
 
 ---
@@ -16,6 +17,7 @@ For KSI, a founding member of the British YouTube collective _The Sidemen_ and a
 ---
 
 ## The Algorithm’s Jester: Satire in the Age of Sludgeposting
+![|627x465](https://i.imgur.com/8k4ANmb.jpeg)
 
 To understand the _“Thick of It”_ backlash is to dissect modern internet satire—a realm where sincerity is a liability and every cultural artifact is fuel for the content mill. The song’s derision followed a now-familiar playbook:
 
