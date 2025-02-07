@@ -33,7 +33,7 @@ KSI’s career has long thrived on contradictions. The Sidemen, formed in 2013, 
 
 When Minecraft YouTuber DanTDM blasted KSI, Logan Paul, and MrBeast for hawking “low-quality products to children,” it tapped into a broader fatigue with creator capitalism. _“Thick of It”_—with its clunky metaphors and Trippie Redd’s joke about being “held hostage”—became a lightning rod. “You spend mind, body, and soul on art, then people call it trash,” KSI told _Capital FM._ “It’s demoralizing.”
 
-Yet the numbers defied the noise: \#KSIReacts videos racked millions of views; the track hit No. 6 on the UK charts. “Hate-watching is still watching,” notes **John Pork, Meme Historian**. “KSI’s real crime wasn’t bad music—it was giving the internet a villain it could monetize.”
+Yet the numbers defied the noise–#KSIReacts videos racked millions of views; the track hit No. 6 on the UK charts. “Hate-watching is still watching,” notes **John Pork, Meme Historian**. “KSI’s real crime wasn’t bad music—it was giving the internet a villain it could monetize.”
 
 ---
 
@@ -45,15 +45,15 @@ In the fallout, a hierarchy of clout emerged:
 - **Drake**: Used the track in a Reel, letting ambiguity do the trolling.
 - **Jake Paul**: Mocked KSI while promoting his own fight—a reminder that rivalry drives clicks.
 
-Even the backlash became content. TikToker @marquitos.g’s skit of KSI _“singing in the studio”_ (9.5M views) and Reddit’s _“There’s no way this is real😭”_ post (5.9K upvotes) were less critiques than career accelerants. “Controversy is a collaboration tool now,” says **John Pork, Meme Historian**. “Everyone’s in on the joke, even if the joke is them.”
+Even the backlash became content. TikToker @marquitos.g’s skit of KSI _“singing in the studio”_ (9.5M views) and Reddit’s _“There’s no way this is real_ 😭 *”* post (5.9K upvotes) were less critiques than career accelerants. “Controversy is a collaboration tool now,” says **John Pork, Meme Historian**. “Everyone’s in on the joke, even if the joke is them.”
 
 ---
 
 ## Aftermath: The Banana-Shaped Tower
 
 By November 2024, _“Thick of It”_ had earned a BRIT Award nomination and a NLE Choppa remix. KSI, ever the pragmatist, leaned in: _“If I tell you to stop, you’ll continue. So… continue?”_  
-—  
-The song’s legacy mirrors the arc of digital fame itself—a _“banana-shaped”_ mess (as one lawyer described the leaning 1 Seaport tower) that somehow stands tall. In a culture where virality baptizes both saints and fools, KSI proved a paradoxical truth: You don’t need to win the narrative. You just need to keep it spinning.
+
+Like that precarious, banana-esque skyscraper downtown (as one lawyer described the leaning 1 Seaport tower), *“Thick of It”* stands crooked yet tall—rebuking the dire predictions that it would crater KSI’s reputation. In a culture where virality baptizes both saints and fools, KSI proved a paradoxical truth: You don’t need to win the narrative. You just need to keep it spinning.
 
 _“Thick of It”_ isn’t a good song. But as a case study in how internet culture digests its idols? It’s a masterpiece.
 
