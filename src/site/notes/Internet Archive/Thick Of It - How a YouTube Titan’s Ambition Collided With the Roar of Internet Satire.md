@@ -53,7 +53,7 @@ Even the backlash became content. TikToker @marquitos.g’s skit of KSI _“sing
 
 By November 2024, _“Thick of It”_ had earned a BRIT Award nomination and a NLE Choppa remix. KSI, ever the pragmatist, leaned in: _“If I tell you to stop, you’ll continue. So… continue?”_  
 
-Like that precarious, banana-esque skyscraper downtown (as one lawyer described the leaning 1 Seaport tower), *“Thick of It”* stands crooked yet tall—rebuking the dire predictions that it would crater KSI’s reputation. In a culture where virality baptizes both saints and fools, KSI proved a paradoxical truth: You don’t need to win the narrative. You just need to keep it spinning.
+Like that precarious, banana-esque skyscraper in downtown New York (as one lawyer described the leaning 1 Seaport tower), *“Thick of It”* stands crooked yet tall—rebuking the dire predictions that it would crater KSI’s reputation. In a culture where virality baptizes both saints and fools, KSI proved a paradoxical truth: You don’t need to win the narrative. You just need to keep it spinning.
 
 _“Thick of It”_ isn’t a good song. But as a case study in how internet culture digests its idols? It’s a masterpiece.
 
