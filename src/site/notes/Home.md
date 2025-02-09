@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
@@ -8,13 +8,13 @@
 Hello! I'm so happy to have this chance to share some of the things I've learned with you all here. Thanks so much for stopping by!
 ## Recent Posts
 
-| File                                                                                                                                                                                                                      | Authored          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Internet Archive/Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire\|Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire]]                    | February 07, 2025 |
-| [[Theology Corner/Revelation 3 - Use for Evangelism\|Revelation 3 - Use for Evangelism]]                                                                                                                               | February 04, 2025 |
-| [[Theology Corner/The Ephesians 1 Debate\|The Ephesians 1 Debate]]                                                                                                                                                     | February 03, 2025 |
-| [[Theology Corner/Young Earth Creationism–A Controversial Perspective\|Young Earth Creationism–A Controversial Perspective]]                                                                                           | February 03, 2025 |
-| [[Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience\|An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience]] | January 30, 2025  |
+| File                                                                                                                                                                                                   | Authored          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Theology Corner/The Unseen Threads of Humility\|The Unseen Threads of Humility]]                                                                                                                  | February 08, 2025 |
+| [[Internet Archive/Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire\|Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire]] | February 07, 2025 |
+| [[Theology Corner/Revelation 3 - Use for Evangelism\|Revelation 3 - Use for Evangelism]]                                                                                                            | February 04, 2025 |
+| [[Theology Corner/The Ephesians 1 Debate\|The Ephesians 1 Debate]]                                                                                                                                  | February 03, 2025 |
+| [[Theology Corner/Young Earth Creationism–A Controversial Perspective\|Young Earth Creationism–A Controversial Perspective]]                                                                        | February 03, 2025 |
 
 { .block-language-dataview}
 ## Sub-Pages

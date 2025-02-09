@@ -3,7 +3,7 @@
 ---
 
 # Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire
-![|635x357](https://i.imgur.com/JprYKiG.jpeg)
+![|725x408](https://i.imgur.com/JprYKiG.jpeg)
 _Inside the backlash to "Thick of It" and the cultural machinery that turns cringe into currency_
 
 ---

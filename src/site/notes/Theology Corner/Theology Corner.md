@@ -5,6 +5,7 @@
 ![](https://i.imgur.com/U84DBYd.png)
 | File                                                                                                                                                                                                                      | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Theology Corner/The Unseen Threads of Humility\|The Unseen Threads of Humility]]                                                                                                                                     | February 08, 2025  |
 | [[Theology Corner/Revelation 3 - Use for Evangelism\|Revelation 3 - Use for Evangelism]]                                                                                                                               | February 04, 2025  |
 | [[Theology Corner/The Ephesians 1 Debate\|The Ephesians 1 Debate]]                                                                                                                                                     | February 03, 2025  |
 | [[Theology Corner/Young Earth Creationism–A Controversial Perspective\|Young Earth Creationism–A Controversial Perspective]]                                                                                           | February 03, 2025  |
