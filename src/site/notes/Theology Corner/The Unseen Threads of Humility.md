@@ -28,7 +28,7 @@ I wanted to push back, to ask questions that would challenge the assumptions bei
 
 I don’t know if my silence was wisdom or cowardice. Maybe I should have spoken up. Maybe I should have found a way to articulate my thoughts in a way that was both firm and gracious. Or maybe submission, in that moment, looked like restraint—not because I agreed, but because I trusted that my obedience to God matters more than proving a point.  
 
-On a side note, marriage still daunts me. I get that family structure matters, that leadership isn’t about power but responsibility. But still, I picture a future where my hypothetical wife and I clash over finances or parenting, and I hesitate. What if I get it wrong? What if leadership feels more like weight than wisdom?
+On a slight tangent, marriage still daunts me. I get that family structure matters, that leadership isn’t about power but responsibility. But still, I picture a future where my hypothetical wife and I clash over finances or parenting, and I hesitate. What if I get it wrong? What if leadership feels more like weight than wisdom?
 
 Opting out sounds easier, but Scripture doesn’t leave that open. Husbands are called to lead—not as tyrants, but as shepherds, bearing responsibility with love. Piper’s image of Sarah calling Abraham “lord” with a lowercase _l_ reframes it: my ultimate allegiance is to the capital-_L_ Lord. Leadership isn’t about control; it’s about trust. Submission, then, isn’t a shackle—it’s a safeguard, a way to navigate human brokenness while anchored in divine truth.
 
