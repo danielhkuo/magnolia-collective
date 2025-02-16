@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Book Nook/Book Nook/","tags":["books"]}
+{"dg-publish":true,"permalink":"/book-nook/book-nook/","tags":["books"]}
 ---
 
 ![](https://i.imgur.com/2WMNCUz.jpeg)

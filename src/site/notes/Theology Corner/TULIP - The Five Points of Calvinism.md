@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/TULIP - The Five Points of Calvinism/"}
+{"dg-publish":true,"permalink":"/theology-corner/tulip-the-five-points-of-calvinism/"}
 ---
 
 # TULIP - The Five Points of Calvinism
 *Special thanks to Lin Chen for compiling this and sharing it to all for educational uses.*
+
+**Note**: It might be wise to view this video, which is far more unbiased and objective than this article, first: https://youtu.be/ikHAZnhA6P0?si=00Ao6dGfAj3RIg76
 
 > [!quote]
 > “Paradox lies at the heart of every great doctrine of the faith. [Reformed Theology](https://en.wikipedia.org/wiki/Reformed_Christianity) affirms Both God’s unity and trinity, Christ’s divinity and humanity, God’s sovereignty and human responsibility. Believers are urged with all seriousness to work out their own salvation, and yet this salvation is already assured as a gift from the Father, and the Son, through the Spirit. The Kingdom of Christ is present now, inaugurated by Christ’s resurrection, and yet not fully consummated until his return. Ignoring these tensions (the irrationalist temptation) or resolving these tensions (the rationalist temptation) are always easy options. Living in the tension is more difficult; listening where God has spoken, but restraining our curiosity beyond his word.” - Michael Horton, *For Calvinism*

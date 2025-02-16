@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Internet Archive/Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire/"}
+{"dg-publish":true,"permalink":"/internet-archive/thick-of-it-how-a-you-tube-titan-s-ambition-collided-with-the-roar-of-internet-satire/"}
 ---
 
 # Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/Free Will and Salvation - An Attempt for Easier Dialogue/"}
+{"dg-publish":true,"permalink":"/theology-corner/free-will-and-salvation-an-attempt-for-easier-dialogue/"}
 ---
 
 # Free Will and Salvation - An Attempt for Easier Dialogue

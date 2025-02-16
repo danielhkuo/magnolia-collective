@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/The Perils of Theological Innovation Without Church History/"}
+{"dg-publish":true,"permalink":"/theology-corner/the-perils-of-theological-innovation-without-church-history/"}
 ---
 
 # The Perils of Theological Innovation Without Church History

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/Theology Corner/","tags":["theology"]}
+{"dg-publish":true,"permalink":"/theology-corner/theology-corner/","tags":["theology"]}
 ---
 
 ![](https://i.imgur.com/U84DBYd.png)

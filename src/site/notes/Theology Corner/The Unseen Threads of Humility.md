@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/The Unseen Threads of Humility/"}
+{"dg-publish":true,"permalink":"/theology-corner/the-unseen-threads-of-humility/"}
 ---
 
 # The Unseen Threads of Humility  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience/"}
+{"dg-publish":true,"permalink":"/theology-corner/an-analysis-of-the-most-popular-reconciliations-of-salvation-god-s-sovereignty-and-omniscience/"}
 ---
 
 # An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience

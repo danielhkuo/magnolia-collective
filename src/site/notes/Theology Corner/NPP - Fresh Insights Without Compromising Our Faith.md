@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/NPP - Fresh Insights Without Compromising Our Faith/"}
+{"dg-publish":true,"permalink":"/theology-corner/npp-fresh-insights-without-compromising-our-faith/"}
 ---
 
 # NPP - Fresh Insights Without Compromising Our Faith

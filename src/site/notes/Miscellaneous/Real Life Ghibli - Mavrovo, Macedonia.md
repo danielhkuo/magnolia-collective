@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Miscellaneous/Real Life Ghibli - Mavrovo, Macedonia/"}
+{"dg-publish":true,"permalink":"/miscellaneous/real-life-ghibli-mavrovo-macedonia/"}
 ---
 
 # Real Life Ghibli - Mavrovo, Macedonia

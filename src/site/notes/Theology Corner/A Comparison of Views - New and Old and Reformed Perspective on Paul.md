@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/A Comparison of Views - New and Old and Reformed Perspective on Paul/"}
+{"dg-publish":true,"permalink":"/theology-corner/a-comparison-of-views-new-and-old-and-reformed-perspective-on-paul/"}
 ---
 
 # A Comparison of Views - New and Old and Reformed Perspective on Paul

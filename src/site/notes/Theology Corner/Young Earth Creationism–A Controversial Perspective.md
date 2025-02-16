@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/Young Earth Creationism–A Controversial Perspective/"}
+{"dg-publish":true,"permalink":"/theology-corner/young-earth-creationism-a-controversial-perspective/"}
 ---
 
 # Young Earth Creationism–A Controversial Perspective

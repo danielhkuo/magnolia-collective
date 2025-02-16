@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/Revelation 3 - Use for Evangelism/"}
+{"dg-publish":true,"permalink":"/theology-corner/revelation-3-use-for-evangelism/"}
 ---
 
 # Revelation 3 - Use for Evangelism

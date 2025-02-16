@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Theology Corner/The Ephesians 1 Debate/"}
+{"dg-publish":true,"permalink":"/theology-corner/the-ephesians-1-debate/"}
 ---
 
 # The Ephesians 1 Debate
