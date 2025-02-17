@@ -129,8 +129,8 @@ Provisionism’s “external-only” grace framework collapses the distinction b
 
 ### Exegetical and Sacramental Consequences
 
-13. **1 Corinthians 2:14**: The “natural person” cannot receive spiritual truths without the Spirit’s illumination.  
-14. **Ezekiel 36:26–27**: Regeneration precedes obedience—the Spirit gives a “new heart” *before* enabling compliance with God’s statutes.
+1. **1 Corinthians 2:14**: The “natural person” cannot receive spiritual truths without the Spirit’s illumination.  
+2. **Ezekiel 36:26–27**: Regeneration precedes obedience—the Spirit gives a “new heart” *before* enabling compliance with God’s statutes.
 
 Flowers’ model inverts this ordo salutis, making regeneration contingent on human faith. This aligns with Faustus of Riez’s Semi-Pelagianism, which taught that “God’s grace is given according to human merit” (Stucco, *Not Without Us*).
 
@@ -151,8 +151,8 @@ This critique underscores the enduring necessity of Augustine’s maxim: *“God
 
 Flowers argues that Provisionism avoids Semi-Pelagianism by affirming:
 
-15. **Universal Sinfulness**: All humans need salvation.  
-16. **Grace as Necessary Provision**: Christ’s atonement and gospel proclamation are gracious acts.
+3. **Universal Sinfulness**: All humans need salvation.  
+4. **Grace as Necessary Provision**: Christ’s atonement and gospel proclamation are gracious acts.
 
 **Cooper’s Rebuttal**:
 
@@ -175,7 +175,7 @@ This analysis underscores the enduring relevance of Augustine’s maxim:
 *“God crowns not your merits but His own gifts”*—a truth Provisionism’s anthropology ultimately obscures.
 
 ---
-Other Sources[^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51][^52][^53][^54][^55][^56][^57]
+Other Sources[^6][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^27][^29][^30][^31][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^47][^48][^49][^50][^51][^52][^53][^54][^55][^56][^57]
 
 ## Citations
 
@@ -186,7 +186,6 @@ Other Sources[^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][
 [^4]: https://www.monergism.com/understanding-provisionism-theological-perspective  
 [^5]: https://soteriology101.com/2019/01/13/are-you-better-than-your-friend-who-refused-to-believe/  
 [^6]: https://www.reddit.com/r/Reformed/comments/164lx64/is_provisionism_problematic/  
-[^7]: https://www.iss.nl/sites/corporate/files/An_Exercise_in_Worldmaking_2007-2008.pdf  
 [^8]: https://www.youtube.com/watch?v=qwgxbiUS9xY  
 [^9]: https://growrag.wordpress.com/2021/06/03/the-augustinian-dualism-of-leighton-flowers-provisionism/  
 [^10]: https://www.patheos.com/blogs/justandsinner/distinguishing-arminianism-from-semipelagianism/  
@@ -203,15 +202,11 @@ Other Sources[^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][
 [^21]: https://www.facebook.com/story.php/?story_fbid=804407755036363\&id=100064014365960  
 [^22]: https://www.patheos.com/blogs/justandsinner/outline-for-a-bible-study-on-infant-baptism/  
 [^23]: https://soteriology101.com/2017/10/30/reformation-day-and-sbc-calvinism/  
-[^24]: https://www.aomin.org/aoblog/general-apologetics/the-early-canon-process-of-the-new-testament/  
-[^25]: https://dhjhkxawhe8q4.cloudfront.net/wipf-and-stock-v2-wp/wp-content/uploads/2024/09/26171015/CompleteTitlesList_Sept2024.pdf  
-[^26]: https://www.patheos.com/blogs/justandsinner/outline-for-a-bible-study-on-the-lords-supper/  
+[^24]: https://www.aomin.org/aoblog/general-apologetics/the-early-canon-process-of-the-new-testament/   
 [^27]: https://twitter.com/DrJordanBCooper/status/1490011047721418763  
-[^28]: https://www.researchgate.net/publication/237958217_Enhancing_academic_climate_Doctoral_students_as_their_own_developers  
 [^29]: https://gospelencounter.wordpress.com/2021/12/16/dr-jordan-coopers-two-part-response-to-leighton-flowers-and-provisionalism/  
 [^30]: https://medievalworlds.net/9783700191728  
-[^31]: https://www.youtube.com/watch?v=ciiP37xUYEw  
-[^32]: https://www.academia.edu/31326252/20_Years_after_the_Collapse_of_Communism  
+[^31]: https://www.youtube.com/watch?v=ciiP37xUYEw   
 [^33]: https://www.youtube.com/watch?v=qtKwyZehZpM  
 [^34]: https://www.youtube.com/watch?v=ut33wirksfI  
 [^35]: https://www.patheos.com/blogs/justandsinner/lutherans-have-a-weak-view-of-sin/  
@@ -224,8 +219,7 @@ Other Sources[^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][
 [^42]: https://www.reddit.com/r/Reformed/comments/164lx64/is_provisionism_problematic/  
 [^43]: https://wipfandstock.com/9798385214860/a-critique-of-provisionism/  
 [^44]: https://www.youtube.com/watch?v=AF8f0PylIVw  
-[^45]: https://growrag.wordpress.com/2021/05/08/is-southern-baptist-traditionalism-or-leighton-flowers-provisionism-semi-pelagian-an-engagement-with-adam-harwoods-essay/  
-[^46]: https://www.justandsinner.org/home/previous/2  
+[^45]: https://growrag.wordpress.com/2021/05/08/is-southern-baptist-traditionalism-or-leighton-flowers-provisionism-semi-pelagian-an-engagement-with-adam-harwoods-essay/   
 [^47]: https://substack.com/home/post/p-139160708  
 [^48]: https://www.jordanbcooper.com/interviews.html  
 [^49]: https://www.gotquestions.org/semi-Pelagianism.html  
@@ -236,4 +230,4 @@ Other Sources[^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][
 [^54]: https://growrag.wordpress.com/2021/03/24/pelagianism-and-provisionism-in-historical-duet/  
 [^55]: https://orthodoxbridge.com/2020/04/25/responding-to-pastor-jordan-cooper/  
 [^56]: https://www.modernreformation.org/resources/book-reviews/-union-with-christ-salvation-as-participation-by-jordan-cooper  
-[^57]: https://growrag.wordpress.com/2021/06/03/the-augustinian-dualism-of-leighton-flowers-provisionism/  
+[^57]: https://growrag.wordpress.com/2021/06/03/the-augustinian-dualism-of-leighton-flowers-provisionism/
