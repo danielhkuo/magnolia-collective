@@ -6,17 +6,7 @@
 # Welcome to Mnestic Magnolia
 ## About
 Hello! I'm so happy to have this chance to share some of the things I've learned with you all here. Thanks so much for stopping by!
-## Recent Posts
 
-| File                                                                                                                                                                                                   | Authored          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Theology Corner/Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective\|Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective]]                      | February 17, 2025 |
-| [[Theology Corner/Provisionism and Its Theological Proximity to Pelagianism\|Provisionism and Its Theological Proximity to Pelagianism]]                                                            | February 16, 2025 |
-| [[Theology Corner/The Unseen Threads of Humility\|The Unseen Threads of Humility]]                                                                                                                  | February 08, 2025 |
-| [[Internet Archive/Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire\|Thick Of It - How a YouTube Titan’s Ambition Collided With the Roar of Internet Satire]] | February 07, 2025 |
-| [[Theology Corner/Revelation 3 - Use for Evangelism\|Revelation 3 - Use for Evangelism]]                                                                                                            | February 04, 2025 |
-
-{ .block-language-dataview}
 ## Sub-Pages
 
 - [[Esports Review/Esports Review\|Esports Review]]
@@ -25,6 +15,18 @@ Hello! I'm so happy to have this chance to share some of the things I've learned
 - [[Book Nook/Book Nook\|Book Nook]]
 - [[Movie Musings/Movie Musings\|Movie Musings]]
 - [[Miscellaneous/Miscellaneous\|Miscellaneous]]
+
+## Recent Posts
+
+| File                                                                                                                                                                                          | Authored          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                             | February 19, 2025 |
+| [[Theology Corner/Soteriology/Part 2 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 2 - The Doctrine of Original Sin as Spiritual Woundedness]]                             | February 19, 2025 |
+| [[Theology Corner/Soteriology/Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective\|Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective]] | February 17, 2025 |
+| [[Theology Corner/Soteriology/Provisionism and Its Theological Proximity to Pelagianism\|Provisionism and Its Theological Proximity to Pelagianism]]                                       | February 16, 2025 |
+| [[Theology Corner/Personal Thoughts/The Unseen Threads of Humility\|The Unseen Threads of Humility]]                                                                                       | February 08, 2025 |
+
+{ .block-language-dataview}
 
 ---
 
