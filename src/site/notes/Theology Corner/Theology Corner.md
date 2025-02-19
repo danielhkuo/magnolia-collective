@@ -3,6 +3,18 @@
 ---
 
 ![](https://i.imgur.com/U84DBYd.png)
+
+*Table of contents updated whenever I feel like it.*
+## Soteriology
+- [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]
+- [[Theology Corner/Soteriology/Part 2 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 2 - The Doctrine of Original Sin as Spiritual Woundedness]]
+- [[Theology Corner/Soteriology/Provisionism and Its Theological Proximity to Pelagianism\|Provisionism and Its Theological Proximity to Pelagianism]]
+- [[Theology Corner/Soteriology/Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective\|Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective]]
+- [[Theology Corner/Soteriology/An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience\|An Analysis of the Most Popular Reconciliations of Salvation, God’s Sovereignty, and Omniscience]]
+- [[Theology Corner/Soteriology/TULIP - The Five Points of Calvinism\|TULIP - The Five Points of Calvinism]]
+- [[Theology Corner/Soteriology/The Ephesians 1 Debate\|The Ephesians 1 Debate]]
+- [[Theology Corner/Soteriology/Free Will and Salvation - An Attempt for Easier Dialogue\|Free Will and Salvation - An Attempt for Easier Dialogue]]
+
 | File                                                                                                                                                                                                                                  | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                                                                     | February 19, 2025  |
