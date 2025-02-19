@@ -5,6 +5,7 @@
 ![](https://i.imgur.com/U84DBYd.png)
 | File                                                                                                                                                                                                                      | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Theology Corner/Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective\|Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective]]                                         | February 17, 2025  |
 | [[Theology Corner/Provisionism and Its Theological Proximity to Pelagianism\|Provisionism and Its Theological Proximity to Pelagianism]]                                                                               | February 16, 2025  |
 | [[Theology Corner/The Unseen Threads of Humility\|The Unseen Threads of Humility]]                                                                                                                                     | February 08, 2025  |
 | [[Theology Corner/Revelation 3 - Use for Evangelism\|Revelation 3 - Use for Evangelism]]                                                                                                                               | February 04, 2025  |
