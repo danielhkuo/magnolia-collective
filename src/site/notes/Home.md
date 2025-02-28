@@ -1,30 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
 # Welcome to Mnestic Magnolia
 ## About
 Hello! I'm so happy to have this chance to share some of the things I've learned with you all here. Thanks so much for stopping by!
+### [[Esports Review/Esports Review\|Esports Review]]
+### [[Theology Corner/Theology Corner\|Theology Corner]]
+### [[Internet Archive/Internet Archive\|Internet Archive]]
+### [[Book Nook/Book Nook\|Book Nook]]
+### [[Movie Musings/Movie Musings\|Movie Musings]]
+### [[Miscellaneous/Miscellaneous\|Miscellaneous]]
 
-## Sub-Pages
-
-- [[Esports Review/Esports Review\|Esports Review]]
-- [[Theology Corner/Theology Corner\|Theology Corner]]
-- [[Internet Archive/Internet Archive\|Internet Archive]]
-- [[Book Nook/Book Nook\|Book Nook]]
-- [[Movie Musings/Movie Musings\|Movie Musings]]
-- [[Miscellaneous/Miscellaneous\|Miscellaneous]]
 
 ## Recent Posts
-
 | File                                                                                                                                                                                          | Authored          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                             | February 19, 2025 |
+| [[Theology Corner/Worship Practices of the Apostolic Early Church\|Worship Practices of the Apostolic Early Church]]                                                                       | February 27, 2025 |
+| [[Miscellaneous/Financial Brackets for Household Spending\|Financial Brackets for Household Spending]]                                                                                     | February 19, 2025 |
 | [[Theology Corner/Soteriology/Part 2 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 2 - The Doctrine of Original Sin as Spiritual Woundedness]]                             | February 19, 2025 |
+| [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                             | February 19, 2025 |
 | [[Theology Corner/Soteriology/Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective\|Exegetical Rebuttal of Provisionism from a Historical Protestant Perspective]] | February 17, 2025 |
-| [[Theology Corner/Soteriology/Provisionism and Its Theological Proximity to Pelagianism\|Provisionism and Its Theological Proximity to Pelagianism]]                                       | February 16, 2025 |
-| [[Theology Corner/Personal Thoughts/The Unseen Threads of Humility\|The Unseen Threads of Humility]]                                                                                       | February 08, 2025 |
 
 { .block-language-dataview}
 
@@ -36,5 +33,3 @@ Hello! I'm so happy to have this chance to share some of the things I've learned
 </div>
 
 > “If we find ourselves with a desire that nothing in this world can satisfy, the most probable explanation is that we were made for another world.” - C.S. Lewis
-
-[[About Me\|About Me]] | [[Contact\|Contact]] | [[Subscribe to Newsletter\|Subscribe to Newsletter]]
