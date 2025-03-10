@@ -26,7 +26,7 @@ Take a moment to reflect: Have you ever wondered how these centuries-old doctrin
 ## Background
 
 The Five Points of Calvinism states:  
-	
+
 [[Theology Corner/Soteriology/TULIP - The Five Points of Calvinism#Total Depravity The Human Condition\|Total Depravity (Total Inability)]] - Human nature is so fallen it cannot save itself and is by its fallen nature opposed to God
 
 [[Theology Corner/Soteriology/TULIP - The Five Points of Calvinism#Unconditional Election Loved Before Time\|Unconditional Election]] - God has chosen from eternity those he will bring to himself, not based on merit, virtue, or foreseen faith but rather, by mercy alone
@@ -52,7 +52,7 @@ The Remonstrants presented five articles emphasizing:
 
 > **Note:**  
 > Total Depravity is accepted by both camps. Denying it would be heretical (see [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism) and [Semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism)).  
-> Also, check out this video by Dr. Jordan B. Cooper discussing Leighton Flowers's "Provisionism": [Watch on YouTube](https://www.youtube.com/watch?v=qwgxbiUS9xY) 
+> Also, check out this video by Dr. Jordan B. Cooper defining this "Semi-Pelagianism" and discussing Leighton Flowers's "Provisionism": [Watch on YouTube](https://www.youtube.com/watch?v=qwgxbiUS9xY) 
 ## Analysis
   
 We will now go into these 5 points more in depth and see what they teach and what they do not teach.
