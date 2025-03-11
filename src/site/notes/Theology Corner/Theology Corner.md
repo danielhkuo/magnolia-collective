@@ -6,7 +6,8 @@
 
 *Table of contents updated whenever I feel like it.*
 ## "Give Me an Answer"
-- [[Theology Corner/Why would God create people knowing we would sin, create evil, and go to hell\|Why would God create people knowing we would sin, create evil, and go to hell]]
+- [[Theology Corner/Give Me an Answer/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]]
+
 ## Soteriology
 ### Original Sin
 - [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]
@@ -33,7 +34,8 @@
 
 | File                                                                                                                                                                                                                                  | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Theology Corner/Why would God create people knowing we would sin, create evil, and go to hell\|Why would God create people knowing we would sin, create evil, and go to hell]]                                                   | March 10, 2025     |
+| [[Theology Corner/Give Me an Answer/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]]                               | March 10, 2025     |
+| [[Theology Corner/Give Me an Answer/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]                                                                     | March 10, 2025     |
 | [[Theology Corner/Worship Practices of the Apostolic Early Church\|Worship Practices of the Apostolic Early Church]]                                                                                                               | February 27, 2025  |
 | [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                                                                     | February 19, 2025  |
 | [[Theology Corner/Soteriology/Part 2 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 2 - The Doctrine of Original Sin as Spiritual Woundedness]]                                                                     | February 19, 2025  |
