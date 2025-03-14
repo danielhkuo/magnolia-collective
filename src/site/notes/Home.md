@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ![](https://i.imgur.com/Gwb8h2a.jpeg)
@@ -17,11 +17,11 @@ Hello! I'm so happy to have this chance to share some of the things I've learned
 ## Recent Posts
 | File                                                                                                                                                                                                    | Authored          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Theology Corner/Give Me an Answer/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]] | March 10, 2025    |
-| [[Theology Corner/Give Me an Answer/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]                                       | March 10, 2025    |
+| [[Theology Corner/Personal Thoughts/Does God only love believers?\|Does God only love believers?]]                                                                                                   | March 14, 2025    |
+| [[Theology Corner/Personal Thoughts/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]] | March 10, 2025    |
+| [[Theology Corner/Personal Thoughts/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]                                       | March 10, 2025    |
 | [[Theology Corner/Worship Practices of the Apostolic Early Church\|Worship Practices of the Apostolic Early Church]]                                                                                 | February 27, 2025 |
 | [[Miscellaneous/Financial Brackets for Household Spending\|Financial Brackets for Household Spending]]                                                                                               | February 19, 2025 |
-| [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                                       | February 19, 2025 |
 
 { .block-language-dataview}
 

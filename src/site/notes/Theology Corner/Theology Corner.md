@@ -5,9 +5,6 @@
 ![](https://i.imgur.com/U84DBYd.png)
 
 *Table of contents updated whenever I feel like it.*
-## "Give Me an Answer"
-- [[Theology Corner/Give Me an Answer/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]]
-
 ## Soteriology
 ### Original Sin
 - [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]
@@ -26,6 +23,9 @@
 ## Personal Thoughts
 - [[Theology Corner/Personal Thoughts/The Perils of Theological Innovation Without Church History\|The Perils of Theological Innovation Without Church History]]
 - [[Theology Corner/Personal Thoughts/On Humility\|On Humility]]
+- [[Theology Corner/Personal Thoughts/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]]
+- [[Theology Corner/Personal Thoughts/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]
+- [[Theology Corner/Personal Thoughts/Does God only love believers?\|Does God only love believers?]]
 ## New Perspective on Paul
 - [[Theology Corner/NPP - Fresh Insights Without Compromising Our Faith\|NPP - Fresh Insights Without Compromising Our Faith]]
 - [[Theology Corner/A Comparison of Views - New and Old and Reformed Perspective on Paul\|A Comparison of Views - New and Old and Reformed Perspective on Paul]]
@@ -34,8 +34,9 @@
 
 | File                                                                                                                                                                                                                                  | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Theology Corner/Give Me an Answer/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]]                               | March 10, 2025     |
-| [[Theology Corner/Give Me an Answer/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]                                                                     | March 10, 2025     |
+| [[Theology Corner/Personal Thoughts/Does God only love believers?\|Does God only love believers?]]                                                                                                                                 | March 14, 2025     |
+| [[Theology Corner/Personal Thoughts/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]]                               | March 10, 2025     |
+| [[Theology Corner/Personal Thoughts/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]                                                                     | March 10, 2025     |
 | [[Theology Corner/Worship Practices of the Apostolic Early Church\|Worship Practices of the Apostolic Early Church]]                                                                                                               | February 27, 2025  |
 | [[Theology Corner/Soteriology/Part 1 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 1 - The Doctrine of Original Sin as Spiritual Woundedness]]                                                                     | February 19, 2025  |
 | [[Theology Corner/Soteriology/Part 2 - The Doctrine of Original Sin as Spiritual Woundedness\|Part 2 - The Doctrine of Original Sin as Spiritual Woundedness]]                                                                     | February 19, 2025  |
