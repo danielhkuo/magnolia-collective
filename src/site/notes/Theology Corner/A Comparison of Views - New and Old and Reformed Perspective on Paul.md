@@ -3,7 +3,7 @@
 ---
 
 # A Comparison of Views - New and Old and Reformed Perspective on Paul
-*Adapted from Caleb Smith's videos on the New and Old Perspective of Paul*
+*Adapted from Caleb Smith's videos on the New and Old Perspective of Paul (Gone?)*
 ## 1. Meaning of "Gospel"
 
 | Perspective                           | Interpretation                                                                                                                                                                                                                                                                           |
