@@ -1,27 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["theology","internet_culture","books","movies","miscellaneous","esports","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"]}
 ---
 
-![](https://i.imgur.com/Gwb8h2a.jpeg)
-# Welcome to Mnestic Magnolia
-## About
-Hello! I'm so happy to have this chance to share some of the things I've learned with you all here. Thanks so much for stopping by!
-### [[Esports Review/Esports Review\|Esports Review]]
-### [[Theology Corner/Theology Corner\|Theology Corner]]
-### [[Internet Archive/Internet Archive\|Internet Archive]]
-### [[Book Nook/Book Nook\|Book Nook]]
-### [[Movie Musings/Movie Musings\|Movie Musings]]
-### [[Miscellaneous/Miscellaneous\|Miscellaneous]]
-
-
+![|700x345](https://i.imgur.com/U84DBYd.png)
+# Welcome to the Theology Corner!
+This used to be a general purpose blog, but it ended up becoming a collection of barely coherent rants.
 ## Recent Posts
-| File                                                                                                                                                                                                    | Authored          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Theology Corner/Personal Thoughts/Moral and Theological Arguments Against Medical Assistance in Dying (MAID)\|Moral and Theological Arguments Against Medical Assistance in Dying (MAID)]]         | March 31, 2025    |
-| [[Theology Corner/Personal Thoughts/Does God only love believers?\|Does God only love believers?]]                                                                                                   | March 14, 2025    |
-| [[Theology Corner/Personal Thoughts/What laws from the Old Testament apply to Christians today?\|What laws from the Old Testament apply to Christians today?]]                                       | March 10, 2025    |
-| [[Theology Corner/Personal Thoughts/Why would God create people knowing we would sin, create evil, and go to hell?\|Why would God create people knowing we would sin, create evil, and go to hell?]] | March 10, 2025    |
-| [[Theology Corner/Worship Practices of the Apostolic Early Church\|Worship Practices of the Apostolic Early Church]]                                                                                 | February 27, 2025 |
+| File              | Authored           |
+| ----------------- | ------------------ |
+| [[Home\|Home]] | September 09, 2024 |
 
 { .block-language-dataview}
 
