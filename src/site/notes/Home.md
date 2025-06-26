@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"],"noteIcon":""}
 ---
 
-![|700x345](https://i.imgur.com/U84DBYd.png)
+![image-1.png](/img/user/image-1.png)
 # Welcome to the Theology Corner!
 This used to be a general purpose blog, but it ended up becoming a collection of barely coherent rants.
 ## Recent Posts
