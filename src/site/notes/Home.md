@@ -6,9 +6,12 @@
 # Welcome to the Theology Corner!
 This used to be a general purpose blog, but it ended up becoming a collection of barely coherent rants.
 ## Recent Posts
-| File              | Authored           |
-| ----------------- | ------------------ |
-| [[Home\|Home]] | September 09, 2024 |
+| File                                                                  | Authored           |
+| --------------------------------------------------------------------- | ------------------ |
+| [[Soteriology/1. What is Soteriology?\|1. What is Soteriology?]]   | June 25, 2025      |
+| [[Soteriology/2. Where is Soteriology?\|2. Where is Soteriology?]] | June 25, 2025      |
+| [[Soteriology/3. The Arguments\|3. The Arguments]]                 | June 25, 2025      |
+| [[Home\|Home]]                                                     | September 09, 2024 |
 
 { .block-language-dataview}
 
