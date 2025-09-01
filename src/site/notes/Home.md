@@ -19,7 +19,7 @@ This site started out as a general-purpose blog—a place to jot down thoughts a
 ---
 
 <div style="display: flex; justify-content: center;">
-  <iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRla25sNDhkNW00MXNyeTgzY3Z1NnlqdmszZjVsYTc4amRrdWtiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ayBZf3xVtT74Q/giphy.gif" 
+  <iframe src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxZHlldDR1NXl6MmU5ZDNnbmRvdzBqZ2Z6cndlZnF1NTh0NDdnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N5B19awm2YvwMwf8JE/giphy.gif" 
           width="343" height="480" frameBorder="0" allowFullScreen></iframe>
 </div>
 
