@@ -12,7 +12,7 @@ This site started out as a general-purpose blog—a place to jot down thoughts a
 | [[Soteriology/1. What is Soteriology?\|1. What is Soteriology?]]      | June 25, 2025    |
 | [[Soteriology/2. Where is Soteriology?\|2. Where is Soteriology?]]    | June 25, 2025    |
 | [[Soteriology/3. The Arguments\|3. The Arguments]]                    | June 25, 2025    |
-| [[Soteriology/6. The Shadow of Pelagius\|6. The Shadow of Pelagius]]  | June 25, 2025    |
+| [[Soteriology/4. Calvin and Arminius\|4. Calvin and Arminius]]        | June 25, 2025    |
 
 { .block-language-dataview}
 
