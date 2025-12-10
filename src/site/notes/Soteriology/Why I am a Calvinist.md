@@ -4,13 +4,13 @@
 
 # Why I am a Calvinist
 
-I get asked this question a lot. It used to make me feel awkward because people tend to make such a fuss about the label. Then it would get really heated and emotional. But I feel like I have some unique clarity that’s a little different than what others say. Just please hear me out.
+I get asked this question a lot. It used to make me feel awkward because people tend to make such a fuss about the label. Then it would get really heated and emotional. But I feel like I have some unique clarity that’s a little different from what others say. Just please hear me out.
 
 Honestly, I believe Calvinism and Classical Arminianism are nearly the same in many ways, often just differing in semantics. But with two substantial differences, and that is the doctrine of Prevenient Grace and the nature of God’s Will in Arminianism. But before I go into that, I should first explain a lot of things I hear and see that I have to just say is completely wrong, with no offense to those who say these things of course I don’t mean it personally.
 
 1.  > "God is love, and love requires free choice. Therefore, I don’t believe in predestination."
 
-    Again, I really mean this. Don’t take it personally, but oh boy does this statement presupposes a lot. Let’s break it down together. First, it assumes a specific cultural understanding of love. If you are a Christian, you must define love by the Bible. And nowhere does the Bible define love as "ensuring the free choice of the individual."
+    Again, I really mean this. Don’t take it personally, but oh boy does this statement presuppose a lot. Let’s break it down together. First, it assumes a specific cultural understanding of love. If you are a Christian, you must define love by the Bible. And nowhere does the Bible define love as "ensuring the free choice of the individual."
 
     Consider the greatest act of love in all of history and all of the universe: Jesus’s death on the cross to pay the penalty for our sins. I want to emphasize that this was an act upon humanity. God was doing something to us.
     Imagine if the crucifixion (the greatest example of God’s love) went under this idea of love: Jesus is tried under Pontius Pilate and nailed to the cross on Golgotha... but then He stops. He realizes that because human will is the ultimate standard, He cannot guarantee that a single person will actually accept His gift. Jesus then dies hoping, but not knowing, if His sacrifice will actually save anyone.
