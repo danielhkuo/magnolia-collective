@@ -5,25 +5,54 @@
  * and Markdown-style syntax:      ![left](image.png)
  */
 
+/* Figure & Caption Settings */
+figure.image-figure {
+    margin: 0;
+    display: table;
+    /* Shrink to wrap content */
+}
+
+figure.image-figure img,
+figure.image-figure picture {
+    max-width: 100% !important;
+    margin: 0 !important;
+    float: none !important;
+    display: block;
+}
+
+figure.image-figure figcaption {
+    font-size: 0.85em;
+    color: var(--text-muted, #777);
+    text-align: center;
+    margin-top: 0.5rem;
+    line-height: 1.4;
+    display: table-caption;
+    caption-side: bottom;
+}
+
 /* Right Alignment */
-img[alt*="|right"], 
-img[alt*="right"] {
+img[alt*="|right"],
+img[alt*="right"],
+figure.image-figure.align-right {
     float: right;
     margin: 1rem 0 1rem 1rem;
-    max-width: 50%; /* Prevent floating images from taking up too much space */
+    max-width: 50%;
+    /* Prevent floating images from taking up too much space */
 }
 
 /* Left Alignment */
-img[alt*="|left"], 
-img[alt*="left"] {
+img[alt*="|left"],
+img[alt*="left"],
+figure.image-figure.align-left {
     float: left;
     margin: 1rem 1rem 1rem 0;
     max-width: 50%;
 }
 
 /* Center Alignment */
-img[alt*="|center"], 
-img[alt*="center"] {
+img[alt*="|center"],
+img[alt*="center"],
+figure.image-figure.align-center {
     display: block;
     margin: 1rem auto;
 }
