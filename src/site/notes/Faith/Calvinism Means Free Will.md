@@ -9,7 +9,7 @@ The Westminster Confession of Faith is the most rigorous standard in the Reforme
 The Canons of Dort, another major Reformed document, insist that God's grace "does not treat men as senseless stocks and blocks." It does not take away our will, nor does it do violence to it (Canons of Dort, III/IV, Art. 16) [^3]. 
 
 Francis Turretin was one of the greatest Reformed scholars in history. He went so far as to claim that Calvinists "establish free will far more truly than our opponents" (*Institutes of Elenctic Theology*, X.iii.15) [^4]. These are not throwaway lines. They represent the systematic position of classical Reformed theology. This is a tradition that believed divine sovereignty and genuine human freedom are allies, not enemies.
-![image 1.png|Francis Turretin, a towering figure in Reformed theology who vigorously defended human freedom.](/img/user/0.%20Images/image%201.png)
+![image 1.webp|Francis Turretin, a towering figure in Reformed theology who vigorously defended human freedom.|475x475](/img/user/0.%20Images/image%201.webp)
 
 The popular caricature is simple: Calvinism teaches predestination, therefore Calvinism denies free will. Nearly every internet debate about Reformed theology assumes this is true. For example, popular evangelical resources often contrast God's sovereignty with human choice, asserting that God "could not dictate their innermost feelings, desires, and beliefs" when presenting humanity with a choice (GotQuestions.org) [^1]. However, the actual historical tradition tells a dramatically different story. The early Reformed thinkers spent enormous intellectual energy defining and defending a robust doctrine of human freedom. They did this precisely because they took God's sovereignty so seriously. Understanding what they actually taught requires grasping a few crucial ideas that most modern discussions miss entirely.
 
@@ -30,7 +30,7 @@ Notice what the Confession does not say. It does not say the will is destroyed b
 
 Look closely at the final state of glory. In heaven, the redeemed can only choose good. Yet, this is not described as a lack of freedom. The Confession calls it being "perfectly and immutably free" (WCF 9.5) [^2]. This reflects a carefully reasoned belief about what freedom actually means.
 
-![image 2.png|Heinrich Bullinger, author of the Second Helvetic Confession.](/img/user/0.%20Images/image%202.png)
+![image 2.webp|Heinrich Bullinger, author of the Second Helvetic Confession.|407x438](/img/user/0.%20Images/image%202.webp)
 
 The Westminster divines were not alone in this thinking. Heinrich Bullinger wrote the Second Helvetic Confession in 1566. His language is vivid. He wrote that after the Fall, man's "reason was not taken from him, nor was he deprived of will, and he was not entirely changed into a stone or a tree" (*Second Helvetic Confession*, Ch. 9) [^5]. The will remains a will. Bullinger drives the point home by saying the fallen will "serves sin, not unwillingly but willingly" (*Second Helvetic Confession*, Ch. 9) [^5]. Sinners are not robots executing a program against their own desires. They do what they want. The problem is that, apart from grace, what they want is sin.
 
@@ -44,7 +44,7 @@ Francis Turretin framed the question with razor-sharp precision. He asked whethe
 
 "Liberty of spontaneity," on the other hand, means a free act is one performed voluntarily. It happens without external coercion, and it flows from the person's own rational judgment and desires. On this account, freedom is not about having multiple equal options. Freedom is about acting from your own nature without anyone forcing your hand.
 
-![image 6.png|Peter Martyr Vermigli, who masterfully defended the doctrine of human freedom alongside divine sovereignty.](/img/user/0.%20Images/image%206.png)
+![image 6.webp|Peter Martyr Vermigli, who masterfully defended the doctrine of human freedom alongside divine sovereignty.|482x547](/img/user/0.%20Images/image%206.webp)
 
 Every free act requires two things: a choice made by your reasoning mind, and a willingness to do it without physical compulsion (*Institutes*, X.ii.6) [^4]. Where these two are present, freedom is present. Where either is removed, freedom is destroyed.
 
@@ -58,7 +58,7 @@ Turretin deployed a single brilliant argument that makes the entire Reformed pos
 
 If true freedom requires the ability to choose evil, then God Himself would not be free. God cannot choose evil. Furthermore, Christ would not have freely obeyed the Father, because Christ could not sin. The saints in heaven would not freely worship God, because they cannot turn away from Him. 
 
-![image 3.png|John Owen, the great English Puritan theologian.](/img/user/0.%20Images/image%203.png)
+![image 3.webp|John Owen, the great English Puritan theologian.|284x384](/img/user/0.%20Images/image%203.webp)
 
 This is absurd on its face. God is the freest being in existence, and He is completely incapable of choosing evil. His goodness is necessary, and His freedom is perfect at the exact same time.
 
@@ -74,11 +74,11 @@ The most philosophically ambitious claim in the Westminster Confession appears i
 
 That final phrase is explosive. The Confession is not merely saying that God's decree is compatible with human freedom. It is saying that God's decree is the very foundation of human freedom. Divine sovereignty does not compete with human agency. It guarantees it. Without God's sustaining decree, there would be no creatures, no wills, and no choices at all.
 
-![image 4.png|Samuel Rutherford, a Scottish Covenanter who wrote extensively on how God's grace interacts with human choice.](/img/user/0.%20Images/image%204.png)
+![image 4.webp|Samuel Rutherford, a Scottish Covenanter who wrote extensively on how God's grace interacts with human choice.](/img/user/0.%20Images/image%204.webp)
 
 Samuel Rutherford, a Scottish Covenanter, captured this beautifully. He wrote about the friendly association between human liberty and God's eternal decree (*Exercitationes Apologeticae*) [^8]. The infinite Creator does not use His sovereignty to dominate His creatures. Instead, He uses it to guarantee their freedom (*Freedom from Fatalism*) [^9]. Divine sovereignty and human freedom are not locked in a zero-sum competition. 
 
-![image 5.png|Gisbertus Voetius, the Dutch theologian who developed the concept of 'determination without determinism.'](/img/user/0.%20Images/image%205.png)
+![image 5.webp|Gisbertus Voetius, the Dutch theologian who developed the concept of 'determination without determinism.'](/img/user/0.%20Images/image%205.webp)
 
 Gisbertus Voetius, a towering Dutch theologian, developed this into what modern scholars call "determination without determinism" (*Gisbertus Voetius on God, Freedom, and Contingency*) [^10]. This is the position that God pre-determines all events without producing the kind of mechanistic, robotic determinism that would destroy genuine human choices. God's ultimate plan operates on a completely different level than human cause-and-effect. It enables our choices to function exactly as they were meant to.
 
