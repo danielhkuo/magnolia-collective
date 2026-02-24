@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/abortion/","noteIcon":""}
 ---
 
-Hello! Thanks for caring enough to read this far. If you were sent this, chances are you are 1) a Christian, and 2) Pro-Choice. I'm not trying to appeal to human sensibilities or even to convince you to change your position at all. I simply want to dryly and clearly articulate the sole biblical position on this issue. Thank you!
+Hi, this is not a normal post. If you are looking for something more readable, I would look at something else. If you were sent this, thanks for caring to read this far. Chances are you are 1) a Christian, and 2) Pro-Choice. I'm not trying to appeal to human sensibilities or even to convince you to change your position at all. I simply want to dryly and clearly articulate the sole biblical position on this issue. Thank you!
 
 ---
 
