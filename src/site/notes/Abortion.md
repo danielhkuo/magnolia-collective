@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/abortion/","noteIcon":""}
 ---
 
-# **Thesis**
-If Scripture is infallible (i.e., wholly true, authoritative, and binding), then any ethical stance that contradicts its clear moral teaching is necessarily false. The pro-choice position, which permits intentional abortion, directly contradicts the moral revelation of Scripture regarding life, human personhood, and the sovereignty of God. Therefore, it is impossible to be pro-choice while consistently affirming the infallibility of Scripture.
+Hello! Thanks for caring enough to read this far. If you were sent this, chances are you are 1) a Christian, and 2) Pro-Choice. I'm not trying to appeal to human sensibilities or even to convince you to change your position at all. I simply want to dryly and clearly articulate the sole biblical position on this issue. Thank you!
 
 ---
 
