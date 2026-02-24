@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"],"noteIcon":""}
 ---
 
-![image-1.png|244x308](/img/user/images/image-1.png)
+![image-1.png|244x308](/img/user/0.%20Images/image-1.png)
 # Welcome to the Theology Corner!
 This site started out as a general-purpose blog—a place to jot down thoughts and share ideas. But over time, it naturally evolved into something a bit more focused: a collection of (mostly coherent) lecture-rants on all things theology. From deep dives into doctrine to cheat sheets on scripture and church history, it's become a kind of digital notebook for theological exploration. If you are reading this, chances are this space was created with you in mind. Thanks for reading!
 ## Recent Posts
-| File                                                                                                                                                    | Authored           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[How free-will presuppositions hijacked American biblical interpretation\|How free-will presuppositions hijacked American biblical interpretation]] | February 24, 2026  |
-| [[Abortion\|Abortion]]                                                                                                                               | October 26, 2025   |
-| [[Home\|Home]]                                                                                                                                       | September 09, 2024 |
+| File                                                                                                                                                          | Authored           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Faith/How Free-Will Presuppositions Hijacked American Biblical Interpretation\|How Free-Will Presuppositions Hijacked American Biblical Interpretation]] | February 24, 2026  |
+| [[Faith/Abortion and Faith\|Abortion and Faith]]                                                                                                           | October 26, 2025   |
+| [[Home\|Home]]                                                                                                                                             | September 09, 2024 |
 
 { .block-language-dataview}
 
