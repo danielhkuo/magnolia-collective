@@ -1,0 +1,36 @@
+/* 
+ * Custom Image Alignment Support for Obsidian Digital Garden
+ * 
+ * Supports Obsidian-style syntax: ![[image.png|left]] 
+ * and Markdown-style syntax:      ![left](image.png)
+ */
+
+/* Right Alignment */
+img[alt*="|right"], 
+img[alt*="right"] {
+    float: right;
+    margin: 1rem 0 1rem 1rem;
+    max-width: 50%; /* Prevent floating images from taking up too much space */
+}
+
+/* Left Alignment */
+img[alt*="|left"], 
+img[alt*="left"] {
+    float: left;
+    margin: 1rem 1rem 1rem 0;
+    max-width: 50%;
+}
+
+/* Center Alignment */
+img[alt*="|center"], 
+img[alt*="center"] {
+    display: block;
+    margin: 1rem auto;
+}
+
+/* Clearfix for the main content area to prevent floated images from bleeding into subsequent sections */
+.cm-s-obsidian::after {
+    content: "";
+    display: table;
+    clear: both;
+}
