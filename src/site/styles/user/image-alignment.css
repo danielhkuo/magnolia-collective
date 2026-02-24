@@ -51,9 +51,13 @@ figure.image-figure.align-left {
 
 /* Center Alignment */
 img[alt*="|center"],
-img[alt*="center"],
-figure.image-figure.align-center {
+img[alt*="center"] {
     display: block;
+    margin: 1rem auto;
+}
+
+figure.image-figure.align-center {
+    display: table;
     margin: 1rem auto;
 }
 
