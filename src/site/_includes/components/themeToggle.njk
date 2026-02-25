@@ -1,0 +1,21 @@
+<div class="theme-toggle-modal" id="theme-toggle-modal">
+    <div class="theme-toggle-content">
+        <div class="theme-toggle-label">Theme</div>
+
+        <div class="theme-toggle-item" data-theme="light" onclick="themeToggle.setTheme('light')">
+            <i data-lucide="sun"></i>
+            <span>Light</span>
+        </div>
+
+        <div class="theme-toggle-item" data-theme="dark" onclick="themeToggle.setTheme('dark')">
+            <i data-lucide="moon"></i>
+            <span>Dark</span>
+        </div>
+
+        <div class="theme-toggle-item" data-theme="system" onclick="themeToggle.setTheme('system')">
+            <i data-lucide="monitor"></i>
+            <span>System</span>
+        </div>
+    </div>
+</div>
+{% include "components/themeToggleScript.njk" %}

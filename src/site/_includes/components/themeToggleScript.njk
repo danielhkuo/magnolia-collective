@@ -1,0 +1,100 @@
+<script>
+    const themeToggle = {
+        modal: document.getElementById('theme-toggle-modal'),
+
+        toggleModal() {
+            if (this.modal.classList.contains('is-open')) {
+                this.closeModal();
+            } else {
+                this.openModal();
+            }
+        },
+
+        openModal() {
+            // Anchor the popover above .filetree-bottom
+            const anchor = document.querySelector('.filetree-bottom');
+            if (anchor) {
+                const rect = anchor.getBoundingClientRect();
+                this.modal.style.bottom = (window.innerHeight - rect.top + 8) + 'px';
+                this.modal.style.left = rect.left + 'px';
+                this.modal.style.width = rect.width + 'px';
+            }
+
+            // Show the element first (display:none → display:block),
+            // then on the next frame add .is-open so the CSS transition fires.
+            this.modal.style.display = 'block';
+            requestAnimationFrame(() => {
+                this.modal.classList.add('is-open');
+            });
+
+            this.updateActiveItem();
+        },
+
+        closeModal() {
+            this.modal.classList.remove('is-open');
+            // Wait for the 0.15s transition before hiding
+            setTimeout(() => {
+                if (!this.modal.classList.contains('is-open')) {
+                    this.modal.style.display = 'none';
+                }
+            }, 160);
+        },
+
+        setTheme(theme) {
+            localStorage.setItem("theme", theme);
+            let activeTheme = theme;
+            if (theme === "system") {
+                activeTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+            }
+            document.body.classList.remove("theme-dark", "theme-light");
+            document.body.classList.add(`theme-${activeTheme}`);
+            this.updateActiveItem();
+            this.updateIcon(theme);
+            this.closeModal();
+        },
+
+        updateIcon(theme) {
+            const icons = document.querySelectorAll('.theme-button-icon');
+            if (icons.length === 0) return;
+
+            const currentTheme = theme || localStorage.getItem("theme") || "system";
+            let iconName = "monitor";
+            if (currentTheme === "light") iconName = "sun";
+            else if (currentTheme === "dark") iconName = "moon";
+
+            icons.forEach(icon => {
+                icon.setAttribute("data-lucide", iconName);
+            });
+
+            if (window.lucide) {
+                lucide.createIcons({ icons: lucide.icons, nameAttr: 'data-lucide' });
+            }
+        },
+
+        updateActiveItem() {
+            const currentTheme = localStorage.getItem("theme") || "system";
+            document.querySelectorAll('.theme-toggle-item').forEach(item => {
+                item.classList.toggle('active', item.dataset.theme === currentTheme);
+            });
+        }
+    };
+
+    // Close when clicking outside the popover or the trigger button
+    document.addEventListener('click', (e) => {
+        if (!themeToggle.modal.classList.contains('is-open')) return;
+        if (themeToggle.modal.contains(e.target)) return;
+        const btn = document.getElementById('theme-toggle-btn');
+        if (btn && btn.contains(e.target)) return;
+        themeToggle.closeModal();
+    });
+
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+        if (localStorage.getItem("theme") === "system" || !localStorage.getItem("theme")) {
+            themeToggle.setTheme("system");
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        themeToggle.updateIcon();
+    });
+</script>

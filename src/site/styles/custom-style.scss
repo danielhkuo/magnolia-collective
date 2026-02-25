@@ -1,12 +1,141 @@
 body {
     /* 1. Widen the reading area (default is 700px) */
     --dg-content-max-width: 1000px;
-    
+
     /* 2. Narrow the left sidebar (default is 250px) */
     --dg-filetree-width: 200px;
     --dg-filetree-min-width: 200px;
-    
+
     /* 3. Extend the right TOC area all the way down */
     --dg-sidebar-container-height: 100%;
     --dg-toc-max-height: calc(100vh - 120px);
+}
+
+/* Fix filetree-wrapper bleeding beyond sidebar on wide screens */
+.filetree-wrapper {
+    width: var(--dg-filetree-width) !important;
+    min-width: var(--dg-filetree-min-width) !important;
+    justify-content: flex-start !important;
+}
+
+/* Keep content margin aligned with the narrowed wrapper */
+@media (min-width: 1400px) {
+    .content {
+        margin-left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap, 20px)) !important;
+    }
+}
+
+/* Theme toggle pinned to bottom of filetree */
+.filetree-bottom {
+    padding: 0.75rem 0;
+    border-top: 1px solid var(--background-modifier-border);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+/* ── Theme toggle popover ────────────────────────────────────────────────────
+   Anchored above .filetree-bottom via JS; animated slide-up + fade.
+   display:none is the resting state; JS sets display:block then adds
+   .is-open on the next frame so the CSS transition fires properly.
+   ─────────────────────────────────────────────────────────────────────────── */
+.theme-toggle-modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.theme-toggle-modal.is-open {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.theme-toggle-content {
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    padding: 6px;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.2), 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.theme-toggle-label {
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-faint);
+    padding: 4px 8px 6px;
+}
+
+.theme-toggle-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: var(--nav-item-color);
+    font-size: var(--nav-item-size);
+    transition: background-color 0.1s ease;
+}
+
+.theme-toggle-item svg,
+.theme-toggle-item i {
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+}
+
+.theme-toggle-item:hover {
+    background-color: var(--nav-item-background-hover);
+    color: var(--nav-item-color-hover);
+}
+
+.theme-toggle-item.active {
+    background-color: var(--nav-item-background-selected) !important;
+    color: var(--nav-item-color-active);
+}
+
+/* ── Rounded card styling for file/folder entries ────────────────────────────
+   Uses Obsidian --nav-item-* variables so any installed theme automatically
+   controls hover/active colors in both light and dark mode.
+   ─────────────────────────────────────────────────────────────────────────── */
+.filetree-sidebar .notelink {
+    border-radius: 6px;
+    border-left: none !important;
+    margin: 2px 4px;
+    padding: 5px 10px;
+    background: transparent;
+    transition: background-color 0.15s ease;
+}
+
+.filetree-sidebar .notelink:hover {
+    background-color: var(--nav-item-background-hover);
+}
+
+.filetree-sidebar .notelink.active-note {
+    background-color: var(--nav-item-background-selected);
+    opacity: 1;
+}
+
+.filetree-sidebar .notelink.active-note .filename {
+    color: var(--nav-item-color-active) !important;
+}
+
+.filetree-sidebar .foldername-wrapper {
+    border-radius: 6px;
+    padding: 4px 8px;
+    margin: 2px 4px;
+    transition: background-color 0.15s ease;
+}
+
+.filetree-sidebar .foldername-wrapper:hover {
+    background-color: var(--nav-item-background-hover);
 }
