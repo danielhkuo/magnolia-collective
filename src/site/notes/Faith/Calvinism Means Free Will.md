@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faith/calvinism-means-free-will/","noteIcon":""}
+{"dg-publish":true,"permalink":"/faith/calvinism-means-free-will/"}
 ---
 
 In this blog post, I will explain why Reformed theology does not deny free will.

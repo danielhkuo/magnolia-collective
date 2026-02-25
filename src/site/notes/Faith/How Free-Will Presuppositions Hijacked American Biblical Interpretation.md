@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faith/how-free-will-presuppositions-hijacked-american-biblical-interpretation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/faith/how-free-will-presuppositions-hijacked-american-biblical-interpretation/"}
 ---
 
 

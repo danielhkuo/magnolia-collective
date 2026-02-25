@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"]}
 ---
 
-![image-1.png|right](/img/user/0.%20Images/image-1.png)
+![image-1.png|270x342](/img/user/0.%20Images/image-1.png)
 # Hello World.
 Every once in a while, I get very inspired to write. It might be something I'm genuinely curious about. Or it could be that I heard a take I disagreed with and I needed to come up with a response. Wouldn't it be a shame if I thought up something genuinely interesting and never bothered to save it!
+
+
 ## Recent Posts
 | File                                                                                                                                                          | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
