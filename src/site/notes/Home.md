@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["theology","gardenEntry"]}
 ---
 
-![image-1.png|270x342](/img/user/0.%20Images/image-1.png)
+![image-1.png|right](/img/user/0.%20Images/image-1.png)
 # Hello World.
 Every once in a while, I get very inspired to write. It might be something I'm genuinely curious about. Or it could be that I heard a take I disagreed with and I needed to come up with a response. Wouldn't it be a shame if I thought up something genuinely interesting and never bothered to save it!
 
@@ -10,8 +10,8 @@ Every once in a while, I get very inspired to write. It might be something I'm g
 ## Recent Posts
 | File                                                                                                                                                          | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Faith/How Free-Will Presuppositions Hijacked American Biblical Interpretation\|How Free-Will Presuppositions Hijacked American Biblical Interpretation]] | February 25, 2026  |
 | [[Faith/Calvinism Means Free Will\|Calvinism Means Free Will]]                                                                                             | February 24, 2026  |
-| [[Faith/How Free-Will Presuppositions Hijacked American Biblical Interpretation\|How Free-Will Presuppositions Hijacked American Biblical Interpretation]] | February 24, 2026  |
 | [[Faith/Abortion and Faith\|Abortion and Faith]]                                                                                                           | October 26, 2025   |
 | [[Home\|Home]]                                                                                                                                             | September 09, 2024 |
 
