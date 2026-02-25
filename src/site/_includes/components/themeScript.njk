@@ -1,0 +1,11 @@
+<script>
+    (function(){
+        let theme = localStorage.getItem("theme") || "system";
+        let activeTheme = theme;
+        if (theme === "system") {
+            activeTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        }
+        document.body.classList.remove("theme-dark", "theme-light");
+        document.body.classList.add(`theme-${activeTheme}`);
+    })();
+</script>

@@ -9,14 +9,20 @@
                 {% endif %}
             </a>
         </div>
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
+        <div style="display: flex; gap: 0.5rem; align-items: center;">
+            {% include "components/themeButton.njk" %}
+            {% if settings.dgEnableSearch === true%}
+                {% include "components/searchButton.njk" %}
+            {%endif%}
+        </div>
     </nav>
     {%else%}
     <div class="empty-navbar" >
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
+        <div style="display: flex; gap: 0.5rem; align-items: center;">
+            {% include "components/themeButton.njk" %}
+            {% if settings.dgEnableSearch === true%}
+                {% include "components/searchButton.njk" %}
+            {%endif%}
+        </div>
     </div>
 {%endif%}
