@@ -10,7 +10,7 @@ Every once in a while, I get very inspired to write. It might be something I'm g
 ## Recent Posts
 | File                                                                                                                                                          | Authored           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Faith/How Free-Will Presuppositions Hijacked American Biblical Interpretation\|How Free-Will Presuppositions Hijacked American Biblical Interpretation]] | February 25, 2026  |
+| [[Faith/How Free-Will Presuppositions Hijacked American Biblical Interpretation\|How Free-Will Presuppositions Hijacked American Biblical Interpretation]] | February 26, 2026  |
 | [[Faith/Calvinism Means Free Will\|Calvinism Means Free Will]]                                                                                             | February 24, 2026  |
 | [[Faith/Abortion and Faith\|Abortion and Faith]]                                                                                                           | October 26, 2025   |
 | [[Home\|Home]]                                                                                                                                             | September 09, 2024 |
