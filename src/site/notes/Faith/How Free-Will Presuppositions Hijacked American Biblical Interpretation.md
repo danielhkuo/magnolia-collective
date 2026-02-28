@@ -86,6 +86,10 @@ A crucial caveat is needed here. This lineage is **methodological, not strictly 
 
 What unites this lineage is not doctrine but method. The anxious bench, the inquiry room, the sawdust trail, the altar call, and the sinner's prayer all **functionally presuppose** libertarian free will even when the practitioner would not confess it at the theological level. The method embodies an anthropology, and in American evangelicalism, the method won [^66]. Graham could confess sovereign grace on Sunday and perfect Finney's decisional machinery on Monday. The presupposition lives in the practice, not only in the creed. Cameron Buettel of Grace to You traces the seeker-sensitive movement directly to this dynamic: "Finney's fingerprints are all over modern seeker-sensitive strategies… those who pioneered the seeker-sensitive megachurch juggernaut in America were practical Pelagians" [^18]. The net result is that Finney's hermeneutical assumption, human moral ability as the interpretive starting point, became the invisible default of American evangelical Bible reading, even among churches that would never consciously endorse Pelagianism.
 
+> [!NOTE] Isn't this overly harsh on decisionism?
+> I recommend watching this message by Paul Washer: 
+> https://youtu.be/S-Mwl2JU2Sk
+
 ---
 
 ## 3. "Love requires freedom": a philosophical axiom masquerading as biblical truth
